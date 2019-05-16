@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/head.css">
+    <link rel="stylesheet" href="../css/foot.css">  
+    <link rel="stylesheet" href="../css/detaliPage.css"> 
+    <link rel="stylesheet" href="../css/magnifier.css"> 
+    <style>
+        .magnifier{
+            margin-top: 0;
+            margin-left: 0;
+        }
+        .magnifier-btn span{
+            color: #d0d0d0;
+            background: #fff;
+            margin-top: 10px;
+        }
+        .magnifier-line li {
+            margin-top: 20px;
+            height: 71px;
+            width: 71px;
+        }
+        .small-img {
+            height: 57px;
+            width: 57px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="detaliPage">
+        <div class="header"></div>
+        <div class="sidebar"></div>
+        <div class="main">
+            <div class="main1">
+                <div class="mian1_l">
+                    <ul>
+                        <li>首页 ></li>
+                        <li>药品 ></li>
+                        <li>感冒发热 ></li>
+                        <li>风寒感冒 ></li>
+                        <li>同仁堂 感冒清热剂</li>
+                    </ul>
+                </div>
+                <div class="main1_r">
+                    <img src="../images/renzhen.png" alt="">
+                </div>
+            </div>
+            <div class="main2">
+                <div class="main2_l">
+                    <div class="main2_l_top">
+                        <dl>
+                            <dt>感冒发热</dt>
+                            <dd>感冒发热</dd>
+                            <dd>流感</dd>
+                            <dd>风寒感冒</dd>
+                            <dd>风热感冒</dd>
+                            <dd>感冒发热</dd>
+                            <dd>感冒发热</dd>
+                        </dl>
+                    </div>
+                    <div class="main2_l_center">
+                        <h3>[清空]您最近浏览的商品</h3>
+                        <p>同仁堂 感冒颗粒(无蔗糖...</p>
+                        <span>大药房价格：<i class="color">￥12.8</i></span>
+                        <i class="after"></i>
+                    </div>
+                    <div class="main2_l_bt">
+                        <h3>[清空]您最近浏览的商品</h3>
+                        <ul>
+                            <li>
+                                <p>同仁堂 感冒颗粒(无蔗糖...</p>
+                                <div class="effect">用于风寒感冒，头疼发热</div>
+                                <span>大药房价格：<i class="color">￥12.8</i></span>
+                                <i class="after"></i>
+                            </li>
+                            <li>
+                                <p>同仁堂 感冒颗粒(无蔗糖...</p>
+                                <div class="effect">用于风寒感冒，头疼发热</div>
+                                <span>大药房价格：<i class="color">￥12.8</i></span>
+                                <i class="after"></i>
+                            </li>
+                            <li>
+                                <p>同仁堂 感冒颗粒(无蔗糖...</p>
+                                <div class="effect">用于风寒感冒，头疼发热</div>
+                                <span>大药房价格：<i class="color">￥12.8</i></span>
+                                <i class="after"></i>
+                            </li>
+                            <li>
+                                <p>同仁堂 感冒颗粒(无蔗糖...</p>
+                                <div class="effect">用于风寒感冒，头疼发热</div>
+                                <span>大药房价格：<i class="color">￥12.8</i></span>
+                                <i class="after"></i>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="main2_r">
+                    <div class="main2_r_t">
+                        <div class="main2_r_t_l">
+                            <div class="title">
+                                <h2>同仁堂药品</h2>
+                            </div>
+                            <div class="magnifier" id="magnifier1">
+                                <div class="magnifier-container">
+                                    <div class="images-cover"></div>
+                                    <!--当前图片显示容器-->
+                                    <div class="move-view"></div>
+                                    <!--跟随鼠标移动的盒子-->
+                                </div>
+                                <div class="magnifier-assembly">
+                                    <div class="magnifier-btn">
+                                        <span class="magnifier-btn-left">&lt;</span>
+                                        <span class="magnifier-btn-right">&gt;</span>
+                                    </div>
+                                    <!--按钮组-->
+                                    <div class="magnifier-line">
+                                        <ul class="clearfix animation03">
+                                            <!-- <li>
+                                            <div class="small-img">
+                                                <img src="images/1.png" />
+                                            </div>
+                                        </li>
+                                            <li>
+                                            <div class="small-img">
+                                                <img src="images/2.png" />
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="small-img">
+                                                <img src="images/3.png" />
+                                            </div>
+                                        </li> -->
+                                        <!-- <li>
+                                            <div class="small-img">
+                                                <img src="images/4.png" />
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="small-img">
+                                                <img src="images/1.png" />
+                                            </div>
+                                        </li> -->
+                                        </ul>
+                                    </div>
+                                    缩略图
+                                </div>
+                                <div class="magnifier-view"></div>
+                                <!--经过放大的图片显示容器-->
+                            </div>
+                            <div class="share">
+                                <img src="../images/fenxian.png" alt="">
+                            </div>
+                        </div>
+                        <div class="main2_r_t_r">
+                            <!-- <h2>用于风寒感冒，头疼发热，恶寒身痛,鼻流清涕,...</h2>
+                            <ul class="explain">
+                                <li>通用名称：感冒清颗粒</li>
+                                <li>商品编号：B01001430xt</li>
+                                <li>商品规格：6g*10袋</li>
+                                <li>批准文号：国药准字Z11020361</li>
+                                <li>生产企业：北京同仁堂科技发展有限公司</li>
+                            </ul>
+                            <span>[该商品为特例品，不参加任何活动，不支持使用优惠券    ]</span>
+                            <div class="price_box">
+                                <ul class="list">
+                                    <li class="price">
+                                        <p>优惠价：<i class="active_1">￥12.80</i></p>
+                                        <p>节省：<i class="active_2">￥3.70</i></p>
+                                        <p>市场价：<del>￥16.50</del></p>
+                                        <p><a href="">价格投诉</a></p>
+                                    </li>
+                                    <li class="discounts">
+                                        <p>优惠专享：</p>
+                                        <img src="../images/dazhe.png" alt="">
+                                    </li>
+                                    <li class="promotion">
+                                        <p>促销信息：<i>该商品无促销活动...</i></p>
+                                    </li>
+                                    <li class="num">
+                                        <p>商品数量：</p>
+                                        <div class="add_num">
+                                            <div class="reduce">-</div>
+                                            <input type="text" value="1" name="" id="tex">
+                                            <div class="add">+</div>
+                                        </div>
+                                        <p>【价格投诉】</p>
+                                    </li>
+                                </ul>   
+                            </div>
+                            <div class="shop">
+                                    <img src="../images/shop_btn.png" alt="">
+                                </div>
+                                <div class="zhixun">
+                                    <img src="../images/zhixun.png" alt="">
+                                </div> -->
+                        </div>
+                    </div>
+                    <div class="main2_r_c">
+                        <img src="../images/tishi.png" alt="">
+                    </div>
+                    <div class="main2_r_b">
+                        <div class="main2_btn-box">
+                            <ul class="btn_box">
+                                <li class="active_3">商品详细信息</li>
+                                <li>商品说明</li>
+                                <li>用户评论(153)</li>
+                                <li>相关文章</li>
+                            </ul>
+                            
+                        </div>
+                        <div class="main2_con_box">
+                                <div class="main2_con" style="display: block">
+                                        <img src="../images/pic_1.jpg" alt="">
+                                    </div>
+                                    <div class="main2_con">
+                                        <p>感冒灵颗粒</p>
+                                    </div>
+                                    <div class="main2_con">
+                                            <p>admin:不好用</p>
+                                    </div>
+                                    <div class="main2_con">
+                                        <p>卢本伟牛逼</p>
+                                    </div>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer"></div>
+    </div>
+</body>
+<script src="../lib/jquery-1.10.1.min.js"></script>
+<script src="../js/common.js"></script>
+<script src="../js/detaliPage.js"></script>
+<script src="../js/magnifier.js"></script>
+
+</html>
