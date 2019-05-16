@@ -1,0 +1,95 @@
+@charset "UTF-8";
+#login {
+  width: 100%;
+  height: 100%;
+}
+#login .banner {
+  height: 60px;
+  width: 960px;
+  margin: 0 auto;
+  margin-bottom: 8px;
+  background: url(../images/banner_gg.png);
+}
+#login .main {
+  height: 268px;
+  width: 956px;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+#login .main .main_l {
+  width: 475px;
+  float: left;
+  margin-left: 38px;
+  margin-top: 35px;
+  position: relative;
+  overflow: hidden;
+}
+#login .main .main_l h2 {
+  font-family: '榛戜綋';
+  font-size: 20px;
+  color: #000;
+  font-weight: 900;
+  margin-bottom: 29px;
+}
+#login .main .main_l label {
+  display: inline-block;
+  width: 60px;
+  text-align: right;
+  font-size: 12px;
+  margin-left: 22px;
+  margin-bottom: 16px;
+  color: #666666;
+}
+#login .main .main_l .inputs {
+  width: 187px;
+  height: 24px;
+  margin-bottom: 4px;
+}
+#login .main .main_l span {
+  font-size: 12px;
+  color: #666666;
+}
+#login .main .main_l span i {
+  color: red;
+  font-style: normal;
+}
+#login .main .main_l #zd_login {
+  margin-left: 80px;
+}
+#login .main .main_l .dl {
+  display: inline-block;
+  color: #000;
+}
+#login .main .main_l .btn {
+  width: 104px;
+  height: 34px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 34px;
+  text-align: center;
+  cursor: pointer;
+  background: #c20003;
+  border-radius: 5px;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+#login .main .main_l a {
+  position: absolute;
+  bottom: 10px;
+  right: 200px;
+  display: block;
+}
+#login .main .main_c {
+  float: left;
+  margin-top: 20px;
+}
+#login .main .main_r {
+  float: left;
+  width: 440px;
+  height: 100%;
+}
+
+/*# sourceMappingURL=login.css.map */

@@ -1,0 +1,354 @@
+@charset "UTF-8";
+#register {
+  width: 100%;
+  height: 100%;
+  /*头部*/
+}
+#register .container {
+    /*
+存放内容的容器
+*/
+  width: 1200px;
+  height: 100%;
+  margin: auto;
+  position: relative;
+}
+#register .header {
+  width: 100%;
+  /*logo部分和搜索*/
+}
+#register .header .head_nav {
+  /*头部注册登录*/
+  position: fixed;
+  z-index: 999;
+  margin-left: 150px;
+  height: 31px;
+  width: 1050px;
+  background: #de1b21;
+  border-radius: 0 0 50px 50px;
+}
+#register .header .head_nav .login-info {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 12px;
+  line-height: 26px;
+  color: #fff;
+}
+#register .header .head_nav .login-info span {
+  margin-left: 40px;
+}
+#register .header .head_nav .login-info span a {
+  color: #fff;
+}
+#register .header .head_nav .login-info span a:hover {
+  color: red;
+}
+#register .header .head_nav .service {
+  height: 20px;
+  position: absolute;
+  top: 5px;
+  right: 123px;
+}
+#register .header .head_nav .service img {
+  cursor: pointer;
+}
+#register .header .head_nav .nav_t {
+  position: absolute;
+  top: 0;
+  right: 300px;
+  height: 31px;
+}
+#register .header .head_nav .nav_t li {
+  float: left;
+  margin-left: 10px;
+  line-height: 31px;
+}
+#register .header .head_nav .nav_t li a {
+  display: inline-block;
+  color: #fff;
+}
+#register .header .head_nav .nav_t li a:hover {
+  color: red;
+}
+#register .header .logo {
+  height: 143px;
+  background: #fff;
+}
+#register .header .logo .lg {
+  height: 100%;
+  float: left;
+}
+#register .header .logo .lg img {
+  margin-top: 31px;
+  height: 112px;
+}
+#register .header .logo .search-box {
+  position: absolute;
+  top: 60px;
+  left: 400px;
+}
+#register .header .logo .search-box input {
+  float: left;
+  width: 417px;
+  height: 36px;
+  border: 1px solid #cfd0e4;
+  padding-left: 28px;
+  background-image: url(../images/sou.jpg);
+  background-repeat: no-repeat;
+}
+#register .header .logo .search-box .ss-btn {
+  display: inline-block;
+  width: 86px;
+  height: 38px;
+  box-sizing: border-box;
+  border: 1px solid #cfd0e4;
+  border-left: none;
+  background: #f4f3f8;
+  font-size: 16px;
+  color: #000;
+  line-height: 38px;
+  text-align: center;
+  cursor: pointer;
+}
+#register .header .logo .search-box .sc_con {
+  overflow: hidden;
+}
+#register .header .logo .search-box .sc_con p {
+  float: left;
+  color: #999999;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+#register .header .logo .search-box .sc_con ul {
+  margin-top: 10px;
+  overflow: hidden;
+  float: left;
+}
+#register .header .logo .search-box .sc_con ul li {
+  float: left;
+  color: #999999;
+  padding: 0 10px;
+  cursor: pointer;
+}
+#register .header .logo .search-box .sc_con ul li:hover {
+  color: red;
+}
+#register .header .logo .tele-img {
+  float: right;
+  margin-top: 31px;
+}
+#register .header .nav_sp {
+  /*商品导航*/
+  height: 45px;
+}
+#register .header .nav_sp .nav_sp_l {
+  float: left;
+  height: 100%;
+  width: 250px;
+  background: #d91519;
+}
+#register .header .nav_sp .nav_sp_l h2 {
+  color: #fff;
+  text-align: center;
+  line-height: 45px;
+  font-size: 18px;
+  font-weight: 800;
+  position: relative;
+}
+#register .header .nav_sp .nav_sp_l h2 img {
+  position: absolute;
+  top: 13px;
+  right: 16px;
+}
+#register .header .nav_sp .nav_sp_r {
+  float: right;
+  height: 100%;
+  width: 950px;
+  background: #d91519;
+  /*高亮*/
+}
+#register .header .nav_sp .nav_sp_r ul {
+  float: left;
+  height: 100%;
+}
+#register .header .nav_sp .nav_sp_r ul li {
+  float: left;
+  padding: 0 20px;
+  text-align: center;
+  line-height: 45px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+#register .header .nav_sp .nav_sp_r ul li:nth-child(4) {
+  color: #fbb13e;
+}
+#register .header .nav_sp .nav_sp_r ul li:hover {
+  background: #a62326;
+}
+#register .header .nav_sp .nav_sp_r .more {
+  background: #a62326;
+}
+#register .header .nav_sp .nav_sp_r .shopping-trolley {
+  float: right;
+  height: 45px;
+  position: relative;
+  background: #d91519;
+}
+#register .header .nav_sp .nav_sp_r .shopping-trolley .sp_left {
+  float: left;
+  height: 36px;
+  width: 134px;
+  margin-top: 5px;
+  background: #fff;
+  border-radius: 5px 0 0 5px;
+}
+#register .header .nav_sp .nav_sp_r .shopping-trolley .sp_left img {
+  margin-left: 9px;
+  margin-top: 8px;
+  float: left;
+}
+#register .header .nav_sp .nav_sp_r .shopping-trolley .sp_left a {
+  text-decoration: none;
+  float: left;
+  height: 100%;
+  margin-left: 5px;
+  line-height: 36px;
+}
+#register .header .nav_sp .nav_sp_r .shopping-trolley .close {
+  float: left;
+  height: 36px;
+  margin-top: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 67px;
+  background: #f75c03;
+  border-radius: 0 5px 5px 0;
+  color: #fff;
+  line-height: 36px;
+  text-align: center;
+}
+#register .banner {
+  height: 60px;
+  width: 960px;
+  margin: 0 auto;
+  margin-bottom: 8px;
+  background: url(../images/banner_gg.png);
+}
+#register .main {
+  /*注册内容部分*/
+  height: 380px;
+  width: 956px;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+#register .main .main_l {
+  width: 614px;
+  height: 314px;
+  float: left;
+  margin-left: 38px;
+  margin-top: 35px;
+  position: relative;
+}
+#register .main .main_l h2 {
+  font-family: '黑体';
+  font-size: 20px;
+  color: #000;
+  font-weight: 900;
+  margin-bottom: 29px;
+}
+#register .main .main_l label {
+  display: inline-block;
+  width: 60px;
+  text-align: right;
+  font-size: 12px;
+  margin-left: 22px;
+  margin-bottom: 16px;
+  color: #666666;
+}
+#register .main .main_l .inputs {
+  width: 187px;
+  height: 24px;
+  margin-bottom: 4px;
+}
+#register .main .main_l span {
+  font-size: 12px;
+  color: #666666;
+}
+#register .main .main_l span i {
+  color: red;
+  font-style: normal;
+}
+#register .main .main_l .random {
+  margin-left: 10px;
+  display: inline-block;
+  width: 60px;
+  height: 29px;
+  color: #000;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  line-height: 29px;
+  background: #81807b;
+}
+#register .main .main_l .btn {
+  margin-left: 5px;
+  display: inline-block;
+  color: #000;
+}
+#register .main .main_l .sumbit {
+  width: 144px;
+  height: 34px;
+  color: #fff;
+  line-height: 34px;
+  text-align: center;
+  cursor: pointer;
+  background: #bf0103;
+  border-radius: 5px;
+  margin-left: 85px;
+  margin-top: 10px;
+}
+#register .main .main_l .xy {
+  display: block;
+  color: #c70000;
+  margin-top: 10px;
+  margin-left: 85px;
+}
+#register .main .main_c {
+  float: left;
+  margin-top: 60px;
+}
+#register .main .main_r {
+  float: left;
+  margin-left: 82px;
+  margin-top: 150px;
+}
+#register .main .main_r p {
+  color: #ff4700;
+  font-size: 17px;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#register .main .main_r .main-login {
+  width: 133px;
+  height: 42px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  color: #fff;
+  margin-left: 3px;
+  text-align: center;
+  line-height: 42px;
+  background: #a6000a;
+  border-radius: 5px;
+}
+#register .footer {
+  height: 274px;
+}
+
+/*# sourceMappingURL=register.css.map */

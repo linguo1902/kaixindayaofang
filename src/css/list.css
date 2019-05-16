@@ -1,0 +1,215 @@
+#list {
+  width: 100%;
+  height: 100%;
+}
+#list .banner {
+  height: 60px;
+  width: 960px;
+  margin: 0 auto;
+  margin-bottom: 8px;
+  background: url(../images/banner_gg.png);
+}
+#list .main {
+  width: 958px;
+  margin: 0 auto;
+  border: 1px solid #d7d7d7;
+  margin-bottom: 15px;
+  overflow: hidden;
+  position: relative;
+}
+#list .main .search-result {
+  width: 100%;
+  height: 30px;
+  border-bottom: 1px solid #d7d7d7;
+  padding-left: 10px;
+  line-height: 30px;
+  font-size: 15px;
+}
+#list .main .sp_box {
+  width: 100%;
+  border-bottom: 2px solid #d7d7d7;
+  position: relative;
+}
+#list .main .sp_box .sp_con {
+  height: 28px;
+  overflow: hidden;
+}
+#list .main .sp_box .sp_con dt {
+  float: left;
+  height: 100%;
+  line-height: 28px;
+  width: 74px;
+  text-align: center;
+  color: #000;
+  background: #d7d7d7;
+  margin-right: 10px;
+}
+#list .main .sp_box .sp_con dd {
+  float: left;
+  line-height: 28px;
+  margin-right: 24px;
+  cursor: pointer;
+}
+#list .main .sp_box .sp_con dd:hover {
+  color: red;
+}
+#list .main .sp_box .sp_con .same {
+  margin-top: 6px;
+  margin-bottom: 5px;
+  width: 32px;
+  height: 17px;
+  background: #f39d06;
+  color: #fff;
+  line-height: 17px;
+  text-align: center;
+}
+#list .main .sp_box .sp_con:nth-child(2) {
+  border-bottom: 1px dashed #d7d7d7;
+}
+#list .main .sp_box .price_section {
+  z-index: 10;
+  position: absolute;
+  right: 155px;
+  bottom: 0px;
+  height: 28px;
+}
+#list .main .sp_box .price_section p {
+  float: left;
+  width: 1px;
+  height: 12px;
+  background: #000000;
+  margin-top: 8px;
+  margin-right: 10px;
+}
+#list .main .sp_box .price_section h3 {
+  margin-top: 0px;
+  float: left;
+  line-height: 28px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+#list .main .sp_box .price_section input {
+  margin-top: 3px;
+  width: 56px;
+  height: 16px;
+}
+#list .main .sp_box .price_section .btn {
+  float: right;
+  margin-top: 2px;
+  margin-left: 12px;
+  width: 45px;
+  height: 21px;
+  text-align: center;
+  line-height: 21px;
+  cursor: pointer;
+  border: 1px solid #d7d7d7;
+  border-radius: 5px;
+}
+#list .main .sp_list {
+  width: 100%;
+  height: 34px;
+  background: linear-gradient(to top, #f5f5f5, #fff);
+  border-bottom: 1px solid #d7d7d7;
+}
+#list .main .sp_list img {
+  float: left;
+}
+#list .main .sp_list dl {
+  margin-left: 50px;
+  float: left;
+  height: 100%;
+}
+#list .main .sp_list dl dt {
+  line-height: 34px;
+  float: left;
+}
+#list .main .sp_list dl dd {
+  cursor: pointer;
+  width: 33px;
+  height: 17px;
+  border: 1px solid #d7d7d7;
+  margin-top: 8px;
+  margin-left: 10px;
+  float: left;
+  padding-left: 15px;
+  background: url(../images/jiantou.png) no-repeat;
+}
+#list .main .sp_list dl dd:hover {
+  color: red;
+}
+#list .main .list_content {
+  width: 100%;
+  margin-left: 30px;
+  overflow: hidden;
+}
+#list .main .list_content h2 {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  font-size: 15px;
+}
+#list .main .list_content h2 i {
+  font-style: normal;
+  color: red;
+}
+#list .main .list_content .productList {
+  overflow: hidden;
+}
+#list .main .list_content .productList li {
+  float: left;
+  width: 180px;
+  margin-right: 52px;
+  margin-bottom: 78px;
+}
+#list .main .list_content .productList li .img2 {
+  width: 178px;
+  height: 138px;
+  border: 1px solid #d7d7d7;
+  margin-bottom: 10px;
+}
+#list .main .list_content .productList li p {
+  margin-bottom: 7px;
+  font-size: 15px;
+}
+#list .main .list_content .productList li i {
+  display: inline-block;
+  color: red;
+  margin-bottom: 9px;
+}
+#list .main .list_content .productList li span {
+  display: inline-block;
+  margin-right: 2px;
+  width: 80px;
+  height: 26px;
+  border: 1px solid #d7d7d7;
+  text-align: center;
+  line-height: 26px;
+}
+#list .main .list_content .productList li span .img_btn {
+  cursor: pointer;
+  width: 80px;
+  height: 26px;
+}
+#list .main .page {
+  position: absolute;
+  bottom: 20px;
+  margin-left: 300px;
+}
+#list .main .page a {
+  display: inline-block;
+  line-height: 18px;
+  width: 36px;
+  height: 18px;
+  margin: 0 2px;
+  border: 1px solid #ccc;
+  text-align: center;
+  color: #999999;
+  text-decoration: none;
+}
+#list .main .page a:hover {
+  color: #d91317;
+}
+#list .main .page .active {
+  background: #616161;
+}
+
+/*# sourceMappingURL=list.css.map */

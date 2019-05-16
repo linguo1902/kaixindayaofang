@@ -1,0 +1,1427 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>开心人网上药店-全家健康服务商,网上买药最放心的合法网上药房!</title>
+    <meta name="keywords" content="开心人网上药店,网上药店,网上买药,网上药房,药店,网上购药,药房" />
+    <meta name="description" content="开心人网上药店是开心人大药房下属,国家药监局认证的专业网上药店,覆盖全国300多个大中城市,经销药品、保健食品、美妆护理、两性、医疗器械等万余种商品,致力于打造国内最为专业的全家健康服务商!" />
+    <meta name="Author" content="开心人网上药店 www.360kxr.com" />
+	<meta http-equiv="X-Frame-Options" content="SAMEORIGIN"> 
+    <meta name="Generator" content="360kxr cms" />
+    <meta name="Language" content="zh-CN" />
+    <meta name="Copyright" content="开心人网上药店 All Rights Reserved" />
+    <meta name="Designer" content="开心人网上药店 www.360kxr.com" />
+    <meta name="Publisher" content="开心人网上药店 www.360kxr.com" />
+    <meta name="Distribution" content="Global" />
+<script type="text/javascript" language="javascript">
+
+    var is_iPd = navigator.userAgent.match(/(iPad|iPod|iPhone)/i) != null;
+    if (!is_iPd) {
+        var is_mobi = navigator.userAgent.toLowerCase().match(/(ipod|iphone|android|coolpad|mmp|smartphone|midp|wap|xoom|symbian|j2me|blackberry|win ce)/i) != null;
+        if (is_mobi && window.location.search.indexOf("mv=fp") < 0) {
+            var href = window.location.href;
+            if (href.indexOf("product") > 0) {
+                var id = href.substring(href.lastIndexOf("/") + 1, href.lastIndexOf("."));
+                var referrer = '';
+                if (referrer.indexOf("baidu") > 0) {
+                    window.location.href = "http://m.360kxr.com/product_getProDetail.do?productId=" + id + "&formmedia=" + referrer;
+                }
+                else {
+                    window.location.href = "http://m.360kxr.com/product_getProDetail.do?productId=" + id;
+                }
+            }
+            else {
+                window.location.href = "http://m.360kxr.com/";
+            }
+        }
+    }
+        
+        
+    </script>
+    <link href="http://www.360kxr.com/Content/NewIndexV5/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.360kxr.com/Content/NewIndexV5/css/ziti.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://www.360kxr.com/Content/NewIndexV5/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="http://www.360kxr.com/Content/NewIndexV5/js/The_menu.js"></script>
+    <script type="text/javascript" src="http://www.360kxr.com/Content/NewIndexV5/js/flipcountdown.js"></script>
+    <script type="text/javascript" src="http://www.360kxr.com/Content/NewIndexV5/js/jquery.luara.0.0.1.min.js"></script>
+<!--公告-->
+    <style type="text/css">
+        .reminder{height:30px; width:100%;background:#ffffc7;text-align: center; position: relative;}
+        .reminder a{color:#d60107;display:block; width:900px;height:30px;line-height: 30px; margin:0 auto;font-size: 12px;text-align: center;}
+        .reminder em{height:30px; width:30px; position: absolute; top:0;right:190px;font-size: 20px;cursor:pointer;}
+    </style>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            registerSearch("search", "keyWord", "searchbutton", "/Search/Search", "post");
+            RushBuyEndDate('2019/5/8 18:08:24');
+
+        });
+    </script>
+    <script src="http://www.360kxr.com/Content/NewIndexV5/js/Index_Style.js" type="text/javascript"></script>
+    
+    <script src="http://www.360kxr.com/Content/NewIndexV5/js/jquery.luara.0.0.1.min.js" type="text/javascript"></script>
+     
+    <link href="http://www.360kxr.com/Content/NewIndexV5/css/style.css" rel="stylesheet" type="text/css"  />    
+    <style type="text/css">
+    .search-box
+    {
+        text-align: center;
+        position: relative;
+    }
+    .autocomplete
+    {
+        border: 0px solid #9ACCFB;
+        background-color: white;
+        text-align: left;
+        margin-top:8px;        
+        z-index: 999;
+        padding-left:10px;
+    }
+    .autocomplete li
+    {
+        list-style-type: none;
+        height: 25px;
+        font-size: inherit;
+    }
+    .clickable
+    {
+        cursor: default;
+    }
+    .highlight
+    {
+        background-color: #e6e4e8;
+    }
+</style>
+</head>
+<body>
+    <script type="text/javascript">
+
+        var bigscreen = false;
+        if (screen.width >= 1200) {
+            bigscreen = true;
+            var bodyTag = document.getElementsByTagName("body")[0],
+bodyClassName = bodyTag.getAttribute("className") || bodyTag.getAttribute("class");
+            bodyClassName = bodyClassName ? bodyClassName + " " : "";
+            bodyTag.className = bodyClassName + "root1200";
+        }
+
+    </script>
+ <!--<div class="wrapper"><img width="1200" height="90" src="http://www.360kxr.com/Content/NewIndexV5/img/1.jpg" style="display:block" /></div>-->
+ <!--<div class="wrapper" id="snActive-wrap">
+        <em title="关闭广告">X</em> <a target="_blank" name="redbaby_none_ggw_dt01" title="开心人网上药店"
+            href="http://www.360kxr.com/Content/NewIndexV5/img/1200500.jpg"></a><a target="_blank" name="redbaby_none_ggw_dt01"
+                title="开心人网上药店" href="http://www.360kxr.com/Content/NewIndexV5/img/1200500.jpg"></a>
+    </div>-->
+    <script type="text/javascript">
+        ~function () {
+            var snActive = window.snActive = document.getElementById("snActive-wrap"),
+a = snActive.getElementsByTagName("a"),
+h = 0, w, imgSrc = [];
+            if (bigscreen) { 
+                w = 1200;
+                imgSrc[0] = "http://www.360kxr.com/Content/NewIndexV5/img/1200100.jpg"; // 40
+                imgSrc[1] = "http://www.360kxr.com/Content/NewIndexV5/img/1200500.jpg"; //  500
+            } else {
+                w = 990;
+                imgSrc[0] = "http://www.360kxr.com/Content/NewIndexV5/img/1200100.jpg"; // 40
+                imgSrc[1] = "http://www.360kxr.com/Content/NewIndexV5/img/1200500.jpg"; //  500
+            }
+            snActive.style.overflow = 'hidden';
+            a[0].style.display = "none";
+            a[0].innerHTML += '<img width="' + w + '" height="90" src="' + imgSrc[0] + '" style="display:block" />';
+            if (a[1]) {
+                a[1].innerHTML += '<img width="' + w + '" height="500" src="' + imgSrc[1] + '" style="display:block" />';
+            }
+        } ();
+        //关闭通栏广告
+        var snActive = $(snActive),
+hideImg = snActive.find('a:hidden'),
+em = snActive.find("em");
+        timeout = !1;
+        if (hideImg[0]) {
+            timeout = setTimeout(function () {
+                snActive.animate({ height: 90 }, 600, function () {
+                    hideImg.siblings('a:visible').hide();
+                    hideImg.show();
+                    em.show().live("click", function () {
+                        snActive.slideUp(300);
+                    });
+                });
+            }, 5000)
+        }
+    </script>
+    
+    <script src="http://www.360kxr.com/js/Head_JS_V1.js" type="text/javascript"></script>
+
+<div class="reminder" id="reminder">
+            <a href="http://www.360kxr.com/notice/detail/2307.html">
+                开心人网上药店敬告各位客户：请不要相信任何借"订单异常"、"需要退款"等理由索要您银行卡信息的行为，谨防受骗！
+            </a>
+            <em>x</em>
+            
+        </div>
+        
+        <script type="text/javascript">
+            var oReminder = document.getElementById('reminder');
+            var oReminderEm =oReminder.getElementsByTagName('em')[0];
+            oReminderEm.onmouseover=function(){
+                this.style.background='#ccc';
+                this.style.color = "#d60107";
+                this.onclick=function(){
+                    oReminder.style.display='none';
+                }
+            };
+            oReminderEm.onmouseout=function(){
+                this.style.background='none';
+                this.style.color = "#000";
+            }
+
+        </script>
+
+    <div class="site-nav">
+        <div class="sn-container clearfix">
+            <p class="sn-login-info">
+                <span id="logoName"></span>
+                
+                
+            </p>
+            <p class="kf" id="consult-ico">
+            </p>
+            <ul class="sn-quick-menu" id="top-nav">
+               <li><a href="/private.aspx" target="_blank" title="我的开心人" >我的开心人</a></li>
+           <li><a href="http://www.360kxr.com/Purchase_Requirement.html" target="_blank" title="代购预订" >代购预订</a></li>             
+            <li><a href="/help/index.html" target="_blank" title="服务中心" >服务中心</a></li>
+            <!--<li><a href="http://www.365kxr.com/" target="_blank" title="开心人批发网">开心人批发网</a></li>-->
+            <li class="sn-mobile"><i class="iconfont">&#x3448;</i><a target="_black" href="http://m.360kxr.com/" title="手机商城">手机商城</a><div class="iphone"><p>手机下单更方便</p><p>全场66元包邮</p><p style="padding-top: 8px"><img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/kxr-phone.jpg"></p><p><a href="http://m.360kxr.com/">m.360kxr.com</a></p><p class="hour">24小时服务</p><div class="top_j"></div></div></li>
+            <li><a href="/product/productmap.html" target="_blank" title="网站导航" >网站导航</a></li>
+            <li class="sn-favorite"><a onclick="javascript:addFavorite2()" href="#" target="_blank" title="收藏">收藏</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="logo-box">
+        <div class="logo-box-cont">
+            <h1 class="logo">
+                <a href="http://www.360kxr.com">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/logo.jpg" /></a></h1>
+		
+            <div class="search-container">
+                <div class="search-box" id="search">
+                    <input id="keyWord" value="请输入汇仁肾宝片或hrsbp" /><span class="ss-btn" id="searchbutton">搜索</span>
+                    <p class="hot-search">
+                        <span class="hot-search">热门搜索：<span><a href="http://www.360kxr.com/zhuanti/mailuka/" target="_blank" onclick="KeyWordClick(1363)" title="麦卢卡蜂蜜">麦卢卡蜂蜜</a></span><span><a href="http://www.360kxr.com/product/20128.html" target="_blank" onclick="KeyWordClick(1357)" title="万艾可">万艾可</a></span><span><a href="http://www.360kxr.com/product/32370.html" target="_blank" onclick="KeyWordClick(1304)" title="金戈">金戈</a></span><span><a href="http://www.360kxr.com/product/31362.html" target="_blank" onclick="KeyWordClick(1340)" title="希爱力">希爱力</a></span><span><a href="http://www.360kxr.com/Search_V2/?id=%E6%B6%A6%E4%BC%97" target="_blank" onclick="KeyWordClick(1225)" title="润众">润众</a></span><span><a href="http://www.360kxr.com/product/23195.html" target="_blank" onclick="KeyWordClick(1205)" title="爱卫">爱卫</a></span><span><a href="http://www.360kxr.com/product/13246.html" target="_blank" onclick="KeyWordClick(1214)" title="片仔癀">片仔癀</a></span><span><a href="http://www.360kxr.com/product/31307.html" target="_blank" onclick="KeyWordClick(1213)" title="安宫牛黄丸">安宫牛黄丸</a></span><span><a href="http://www.360kxr.com/product/11860.html" target="_blank" onclick="KeyWordClick(557)" title="保法止">保法止</a></span><span><a href="http://www.360kxr.com/Search_V2/?id=%E5%85%AD%E5%91%B3" target="_blank" onclick="KeyWordClick(647)" title="六味">六味</a></span></span>
+                    </p>
+                </div>
+            </div>
+            <p class="tele-img">
+                <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/zhuanxian.jpg" /></p>
+        </div>
+    </div>
+
+
+
+    <script src="http://www.360kxr.com/Content/NewIndexV5/js/top-nav-seo-new.js" type="text/javascript"></script>
+    
+
+    <div class="nav-box">
+        <div class="main-nav clearfix">
+            <div class="nav-left">
+                <h2>
+                    全部商品分类</h2>
+                <div class='mc'>
+                    <div class='item'>
+                        <div class="posi">
+                            <div class="blineBottm" style="display: none;">
+                            </div>
+                            <span>
+                                <h3>
+                                    <a target="_blank" href="http://www.360kxr.com/drugs.html">中西药品</a><i>></i></h3>
+                                <p class="clearfix">
+                                    <a target="_blank" href="http://www.360kxr.com/category/466-0-2-1-15-1.html"  >心脑血管</a><a target="_blank"
+                                        href="http://www.360kxr.com/category/977-0-2-1-15-1.html"  >肝病用药</a><a target="_blank"
+                                            href="http://www.360kxr.com/category/972-0-2-1-15-1.html">养血生发</a><a target="_blank" href="http://www.360kxr.com/category/919-0-2-1-15-1.html">综合滋补</a><a target="_blank"
+                                                href="http://www.360kxr.com/category/981-0-2-1-15-1.html">耳鼻用药</a><a target="_blank" href="http://www.360kxr.com/category/685-0-2-1-15-1.html">抑郁症</a><a target="_blank"
+                                                    href="http://www.360kxr.com/category/885-0-2-1-15-1.html">哮喘病</a><a target="_blank" href="http://www.360kxr.com/category/349-0-2-1-15-1.html">风湿病</a><a target="_blank"
+                                                        href="http://www.360kxr.com/category/228-0-2-1-15-1.html">银屑病</a></p>
+                            </span>
+                        </div>
+                        <div class='i-mc'>
+                            <div class='close' onclick="$(this).parent().parent().removeClass('hover')">
+                            </div>
+                            <div class='subitem'>
+                                <div style="float: left">
+                                    <dl class='fore'>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/977-0-2-1-15-1.html"  >肝胆用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/980-0-2-1-15-1.html'  >脂肪肝</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/982-0-2-1-15-1.html'>保肝护肝</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/984-0-2-1-15-1.html'>甲乙肝</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/989-0-2-1-15-1.html'>
+                                                    肝硬化</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/991-0-2-1-15-1.html'>肝腹水</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/993-0-2-1-15-1.html'>胆道感染</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/994-0-2-1-15-1.html'>胆结石</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/937-0-2-1-15-1.html"  >肿瘤用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/964-0-2-1-15-1.html'>肝癌</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/944-0-2-1-15-1.html'>前列腺癌</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/952-0-2-1-15-1.html'>
+                                                    乳腺癌</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/953-0-2-1-15-1.html'>肠癌</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/961-0-2-1-15-1.html'>胃癌</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/963-0-2-1-15-1.html'>肺癌</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1032-0-2-1-15-1.html'>
+                                                    乳腺疾病</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/938-0-2-1-15-1.html'>睾丸肿瘤</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/941-0-2-1-15-1.html'>辅助用药</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/942-0-2-1-15-1.html'>白血病(血癌)</a></em> <em><a target="_blank"
+                                                    href='http://www.360kxr.com/category/943-0-2-1-15-1.html'>广谱抗肿瘤药</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/939-0-2-1-15-1.html' class="more">其他</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/466-0-2-1-15-1.html"  >心脑血管</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/927-0-2-1-15-1.html'>高血压</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/774-0-2-1-15-1.html'>低血压</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/469-0-2-1-15-1.html'>
+                                                    高血脂</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/470-0-2-1-15-1.html'>心肌炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/471-0-2-1-15-1.html'>心律失常</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/472-0-2-1-15-1.html'>动脉硬化</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/475-0-2-1-15-1.html'>
+                                                    冠心病</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/476-0-2-1-15-1.html'>心绞痛</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/477-0-2-1-15-1.html'>脑中风后遗症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/478-0-2-1-15-1.html'>脑血管病</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/480-0-2-1-15-1.html'>静脉曲张</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/481-0-2-1-15-1.html'>
+                                                    心力衰竭</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/467-0-2-1-15-1.html'>低钾血症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1040-0-2-1-15-1.html'>动脉闭塞症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1041-0-2-1-15-1.html'>血管病预防</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/482-0-2-1-15-1.html' class="more">其他</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                    	<dt>
+                                      <a target="_blank" href="http://www.360kxr.com/category/502-0-2-1-15-1.html"  >糖尿病</a>
+                                        </dt>
+                                        	<dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/504-0-2-1-15-1.html'>2型糖尿病</a></em><em><a target="_blank" href='http://www.360kxr.com/category/503-0-2-1-15-1.html'>1型糖尿病
+</a></em>
+                                            </dd>                                 	
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/684-0-2-1-15-1.html"  >精神用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/685-0-2-1-15-1.html'>抑郁症</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/686-0-2-1-15-1.html'>精神分裂</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1048-0-2-1-15-1.html'>
+                                                    焦虑症</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/427-0-2-1-15-1.html"  >神经系统</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/428-0-2-1-15-1.html'>癫痫</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/429-0-2-1-15-1.html'>头痛</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/430-0-2-1-15-1.html'>
+                                                    帕金森病</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/431-0-2-1-15-1.html'>神经痛</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/432-0-2-1-15-1.html'>记忆力减退</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/433-0-2-1-15-1.html'>眩晕晕车</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/434-0-2-1-15-1.html'>神经衰弱</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/435-0-2-1-15-1.html'>
+                                                    老年痴呆</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/436-0-2-1-15-1.html'>周围神经病</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/677-0-2-1-15-1.html'>失眠</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/702-0-2-1-15-1.html'>重症肌无力</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1020-0-2-1-15-1.html'
+                                                    class="more">其他</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/375-0-2-1-15-1.html"  >消化系统</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/376-0-2-1-15-1.html'>便秘</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/378-0-2-1-15-1.html'>消化不良</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/379-0-2-1-15-1.html'>
+                                                    呕吐恶心</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/380-0-2-1-15-1.html'>胃食管反流</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/384-0-2-1-15-1.html'>痔疮</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/385-0-2-1-15-1.html'>结肠炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/386-0-2-1-15-1.html'>
+                                                    胃炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/387-0-2-1-15-1.html'>肠炎腹泻</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/388-0-2-1-15-1.html'>胃十二指肠溃疡</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/389-0-2-1-15-1.html'>驱虫消积</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/975-0-2-1-15-1.html'>厌食</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1129-0-2-1-15-1.html'>
+                                                    疟疾</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1031-0-2-1-15-1.html' class="more">
+                                                        其他</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/312-0-2-1-15-1.html"  >呼吸系统</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/313-0-2-1-15-1.html'>扁桃体炎</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/314-0-2-1-15-1.html'>气管炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/318-0-2-1-15-1.html'>
+                                                    肺气肿</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/319-0-2-1-15-1.html'>上呼吸道感染</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/325-0-2-1-15-1.html'>肺结核</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/327-0-2-1-15-1.html'>咽喉炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/883-0-2-1-15-1.html'>
+                                                    止咳化痰</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/885-0-2-1-15-1.html'>哮喘病</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/886-0-2-1-15-1.html'>肺心病</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                    	<dt>
+                                        <a target="_blank" href="http://www.360kxr.com/category/681-0-2-1-15-1.html"  >血液系统</a>
+                                        </dt>
+                                        <em><a target="_blank" href='http://www.360kxr.com/category/1016-0-2-1-15-1.html'>缺铁性贫血</a></em><em><a target="_blank" href='http://www.360kxr.com/category/701-0-2-1-15-1.html'>出血症</a></em><em><a target="_blank" href='http://www.360kxr.com/category/682-0-2-1-15-1.html'>血小板减少</a></em><em><a target="_blank" href='http://www.360kxr.com/category/699-0-2-1-15-1.html'>再生障碍性贫血</a></em><em><a target="_blank" href='http://www.360kxr.com/category/698-0-2-1-15-1.html'>白细胞减少症</a></em>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/486-0-2-1-15-1.html"  >泌尿系统</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/487-0-2-1-15-1.html'>泌尿系感染</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/489-0-2-1-15-1.html'>泌尿系结石</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/794-0-2-1-15-1.html'>尿崩症</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/995-0-2-1-15-1.html'>尿失禁</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/997-0-2-1-15-1.html'>
+                                                    前列腺肥大</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1001-0-2-1-15-1.html'>前列腺炎</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/213-0-2-1-15-1.html"  >皮肤疾病</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/215-0-2-1-15-1.html'>酒糟鼻</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/217-0-2-1-15-1.html'>白癜风</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/218-0-2-1-15-1.html'>
+                                                    冻伤</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/219-0-2-1-15-1.html'>皮肤瘙痒</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/220-0-2-1-15-1.html'>狐臭</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/223-0-2-1-15-1.html'>皮肤皲裂</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/226-0-2-1-15-1.html'>
+                                                    蚊虫叮咬</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/227-0-2-1-15-1.html'>皮炎湿疹</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/228-0-2-1-15-1.html'>银屑病</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/229-0-2-1-15-1.html'>烧烫伤</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/230-0-2-1-15-1.html'>
+                                                    青春痘</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/232-0-2-1-15-1.html'>癣症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/233-0-2-1-15-1.html'>祛斑</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/234-0-2-1-15-1.html'>鸡眼</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/235-0-2-1-15-1.html'>
+                                                    荨麻疹</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/236-0-2-1-15-1.html'>痈疽疔疮</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/663-0-2-1-15-1.html'>皮肤消毒</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/671-0-2-1-15-1.html'>皮肤过敏</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/896-0-2-1-15-1.html'>
+                                                    皮肤外伤</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/905-0-2-1-15-1.html'>瘢痕疙瘩</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1027-0-2-1-15-1.html'>抗菌类</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/1030-0-2-1-15-1.html'>疱疹</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/343-0-2-1-15-1.html"  >筋骨疼痛</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/344-0-2-1-15-1.html'>跌打损伤</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/345-0-2-1-15-1.html'>肩周炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/346-0-2-1-15-1.html'>
+                                                    坐骨神经痛</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/347-0-2-1-15-1.html'>骨质疏松</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/349-0-2-1-15-1.html'>风湿病</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/350-0-2-1-15-1.html'>颈椎病</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/352-0-2-1-15-1.html'>
+                                                    骨质增生 </a></em><em><a target="_blank" href='http://www.360kxr.com/category/353-0-2-1-15-1.html'>通风</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/355-0-2-1-15-1.html'>类风湿</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/356-0-2-1-15-1.html'>椎间盘突出</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/358-0-2-1-15-1.html'>
+                                                    腰肌劳损</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/929-0-2-1-15-1.html'>强直脊柱炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/930-0-2-1-15-1.html'>滑膜炎</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/949-0-2-1-15-1.html' class="more">其他</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                                <div style="float: right">
+                                    
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/981-0-2-1-15-1.html"  >耳鼻用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/983-0-2-1-15-1.html'>过敏性鼻炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/985-0-2-1-15-1.html'>鼻炎鼻窦炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/988-0-2-1-15-1.html'>耳聋</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/990-0-2-1-15-1.html'>耳炎</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/483-0-2-1-15-1.html"  >口腔用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/484-0-2-1-15-1.html'>牙周病</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/485-0-2-1-15-1.html'>口腔溃疡</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/672-0-2-1-15-1.html'>
+                                                    口臭</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/992-0-2-1-15-1.html"  >眼科</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/996-0-2-1-15-1.html'>眼部消炎</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/998-0-2-1-15-1.html'>干眼症</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1000-0-2-1-15-1.html'>
+                                                    去火明目</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1002-0-2-1-15-1.html'>夜盲症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1004-0-2-1-15-1.html'>青光眼</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/1006-0-2-1-15-1.html'>过敏性结膜炎</a></em> <em><a target="_blank"
+                                                    href='http://www.360kxr.com/category/1008-0-2-1-15-1.html'>黄斑变性</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1010-0-2-1-15-1.html'>玻璃体混浊</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1012-0-2-1-15-1.html'>视网膜病变</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1013-0-2-1-15-1.html'>近视</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/1014-0-2-1-15-1.html'>视疲劳</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1015-0-2-1-15-1.html'>
+                                                    白内障</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/965-0-2-1-15-1.html"  >养发生发</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/968-0-2-1-15-1.html'>乌发</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/972-0-2-1-15-1.html'>养血生发</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/974-0-2-1-15-1.html'>
+                                                    头皮屑</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                    	<dt>
+                                        <a target="_blank" href="http://www.360kxr.com/category/210-0-2-1-15-1.html"  >滋补用药</a>
+                                        </dt>
+                                        	<dd><em><a target="_blank" href='http://www.360kxr.com/category/919-0-2-1-15-1.html'>综合滋补</a></em><em><a target="_blank" href='http://www.360kxr.com/category/341-0-2-1-15-1.html'>气血亏虚</a></em><em><a target="_blank" href='http://www.360kxr.com/category/336-0-2-1-15-1.html'>肾阴虚</a></em><em><a target="_blank" href='http://www.360kxr.com/category/331-0-2-1-15-1.html'>肾阳虚</a></em>
+                                        	</dd>
+                                    </dl>
+                                    <dl>
+                                    	<dt>
+                                        <a target="_blank" href="http://www.360kxr.com/category/439-0-2-1-15-1.html"  >维矿物质</a>
+                                        </dt>
+                                        	<dd><em><a target="_blank" href='http://www.360kxr.com/category/962-0-2-1-15-1.html'>能量补充</a></em><em><a target="_blank" href='http://www.360kxr.com/category/440-0-2-1-15-1.html'>硒缺乏症</a></em><em><a target="_blank" href='http://www.360kxr.com/category/441-0-2-1-15-1.html'>补锌类</a></em><em><a target="_blank" href='http://www.360kxr.com/category/442-0-2-1-15-1.html'>补铁类</a></em><em><a target="_blank" href='http://www.360kxr.com/category/444-0-2-1-15-1.html'>补钙类</a></em><em><a target="_blank" href='http://www.360kxr.com/category/957-0-2-1-15-1.html'>维生素类</a></em><em><a target="_blank" href='http://www.360kxr.com/category/960-0-2-1-15-1.html'>综合补充</a></em>
+                                        	</dd>
+                                    </dl>
+                                     <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/201-0-2-1-15-1.html"  >家庭常备</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/202-0-2-1-15-1.html'>感冒发热</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/207-0-2-1-15-1.html'>胃肠感冒</a></em><em><a target="_blank"
+                                                href='http://www.360kxr.com/category/206-0-2-1-15-1.html'>普通感冒</a></em><em><a target="_blank"
+                                                href='http://www.360kxr.com/category/205-0-2-1-15-1.html'>风热感冒</a></em><em><a target="_blank"
+                                                href='http://www.360kxr.com/category/203-0-2-1-15-1.html'>流感</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                    	<dt>
+                                        <a target="_blank" href="http://www.360kxr.com/category/210-0-2-1-15-1.html"  >解热镇痛
+</a>
+                                        </dt>
+                                        	<dd>
+                                        	</dd>
+                                    </dl>
+                                    <dl>
+                                    	<dt>
+                                        <a target="_blank" href="http://www.360kxr.com/category/688-0-2-1-15-1.html"  >特殊病症</a>
+                                        </dt>
+                                        	<dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/689-0-2-1-15-1.html'>移植用药</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/695-0-2-1-15-1.html'>激素类</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/703-0-2-1-15-1.html'>免疫缺陷
+</a></em><em><a target="_blank" href='http://www.360kxr.com/category/920-0-2-1-15-1.html'>疝气</a></em><em><a target="_blank" href='http://www.360kxr.com/category/922-0-2-1-15-1.html'>毒虫咬伤</a></em><em><a target="_blank" href='http://www.360kxr.com/category/923-0-2-1-15-1.html'>中暑</a></em><em><a target="_blank" href='http://www.360kxr.com/category/924-0-2-1-15-1.html'>戒烟解酒</a></em></em><em><a target="_blank" href='http://www.360kxr.com/category/1039-0-2-1-15-1.html'>胰腺炎</a></em>
+                                        	</dd>
+                                    </dl>
+                                    <dl>
+                                    	<dt>
+                                        <a target="_blank" href="http://www.360kxr.com/category/931-0-2-1-15-1.html"  >性病</a>
+                                        </dt>
+                                        	<dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/932-0-2-1-15-1.html'>艾滋病</a></em><em><a target="_blank" href='http://www.360kxr.com/category/933-0-2-1-15-1.html'>非淋菌性尿</a></em><em><a target="_blank" href='http://www.360kxr.com/category/934-0-2-1-15-1.html'>梅毒</a></em><em><a target="_blank" href='http://www.360kxr.com/category/935-0-2-1-15-1.html'>淋病</a></em><em><a target="_blank" href='http://www.360kxr.com/category/936-0-2-1-15-1.html'>尖锐湿疣</a></em><em><a target="_blank" href='http://www.360kxr.com/category/1022-0-2-1-15-1.html'>生殖器疱疹</a></em>
+                                        	</dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/907-0-2-1-15-1.html"  >男科</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/914-0-2-1-15-1.html'>性功能障碍</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1043-0-2-1-15-1.html'>早泄</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/912-0-2-1-15-1.html'>睾丸肿痛</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/336-0-2-1-15-1.html'>
+                                                    肾阴虚</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/331-0-2-1-15-1.html'>肾阳虚</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/919-0-2-1-15-1.html'>综合滋补</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/263-0-2-1-15-1.html"  >妇科</a></dt>
+                                        <dd>
+                                        <em><a target="_blank" href='http://www.360kxr.com/category/208-0-2-1-15-1.html'>减肥瘦身</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/266-0-2-1-15-1.html'>更年期综合症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/267-0-2-1-15-1.html'>盆腔炎</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/268-0-2-1-15-1.html'>细菌性阴道炎</a></em> <em><a target="_blank"
+                                                    href='http://www.360kxr.com/category/269-0-2-1-15-1.html'>妇科出血</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/270-0-2-1-15-1.html'>经前紧张症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/272-0-2-1-15-1.html'>子宫肌瘤</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/273-0-2-1-15-1.html'>痛经</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/275-0-2-1-15-1.html'>
+                                                    附件炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/279-0-2-1-15-1.html'>老年性阴道炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/281-0-2-1-15-1.html'>滴虫性阴道炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/283-0-2-1-15-1.html'>宫颈炎</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/285-0-2-1-15-1.html'>月经不调</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/287-0-2-1-15-1.html'>
+                                                    霉菌性阴道炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/291-0-2-1-15-1.html'>宫颈糜烂</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/675-0-2-1-15-1.html'>产后恢复</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/676-0-2-1-15-1.html'>孕妇用药</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/917-0-2-1-15-1.html'>
+                                                    产后缺乳</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/918-0-2-1-15-1.html'>乳腺疾病</a></em><em><a target="_blank" href='http://www.360kxr.com/category/908-0-2-1-15-1.html'>保胎</a></em><em><a target="_blank" href='http://www.360kxr.com/category/910-0-2-1-15-1.html'>不孕症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1036-0-2-1-15-1.html' class="more">其他</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/394-0-2-1-15-1.html"  >儿科</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/396-0-2-1-15-1.html'>惊风</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/397-0-2-1-15-1.html'>退热镇痛</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/398-0-2-1-15-1.html'>
+                                                    上呼吸感染</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/399-0-2-1-15-1.html'>眼部用药</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/403-0-2-1-15-1.html'>自汗盗汗</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/404-0-2-1-15-1.html'>皮肤用药</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/406-0-2-1-15-1.html'>
+                                                    风寒感冒</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/410-0-2-1-15-1.html'>鼻炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/413-0-2-1-15-1.html'>佝偻病</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/414-0-2-1-15-1.html'>腹泻</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/423-0-2-1-15-1.html'>
+                                                    小儿贫血</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/425-0-2-1-15-1.html'>普通感冒</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/668-0-2-1-15-1.html'>多动症</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/669-0-2-1-15-1.html'>婴儿用药</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/791-0-2-1-15-1.html'>
+                                                    遗尿症</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/969-0-2-1-15-1.html'>儿童哮喘</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/970-0-2-1-15-1.html'>止咳化痰</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/971-0-2-1-15-1.html'>补充营养</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/973-0-2-1-15-1.html'>
+                                                    促进消化</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1037-0-2-1-15-1.html'>口腔用药</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1047-0-2-1-15-1.html'>其它</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='item'>
+                        <div class="posi">
+                            <div class="blineBottm">
+                            </div>
+                            <span>
+                                <h3>
+                                    <a target="_blank" href="http://www.360kxr.com/zhuanti/menuse/">男性专区</a><i>></i></h3>
+                                <p class="clearfix">
+                                    <a target="_blank" href="http://www.360kxr.com/category/914-0-2-1-15-1.html"  >性功能障碍</a><a target="_blank"
+                                        href="http://www.360kxr.com/category/1043-0-2-1-15-1.html"  >早泄</a><a target="_blank"
+                                            href="http://www.360kxr.com/category/486-0-2-1-15-1.html">前列腺疾病</a><a target="_blank" href="http://www.360kxr.com/category/331-0-2-1-15-1.html">肾阳虚</a><a target="_blank"
+                                                href="http://www.360kxr.com/category/341-0-2-1-15-1.html">气血亏虚</a><a target="_blank" href="http://www.360kxr.com/Search_V2/?id=补肾">补肾壮阳</a><a target="_blank"
+                                                    href="http://www.360kxr.com/category/1134-0-2-1-15-1.html">延时产品</a><a target="_blank" href="http://www.360kxr.com/category/1133-0-2-1-15-1.html">情趣用品</a><a target="_blank"
+                                                        href="http://www.360kxr.com/category/1130-0-2-1-15-1.html">安全套</a></p>
+                            </span>
+                        </div>
+                        <div class='i-mc i-mc-2'>
+                            <div class='close' onclick="$(this).parent().parent().removeClass('hover')">
+                            </div>
+                            <div class='subitem'>
+                                <div style="float: left">
+                                    <dl class='fore'>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/914-0-2-1-15-1.html"  >性功能障碍</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E4%B8%87%E8%89%BE%E5%8F%AF'>万艾可</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E5%B8%8C%E7%88%B1%E5%8A%9B'>希爱力</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/30126.html'>必利劲</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E9%87%91%E6%88%88'>金戈</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/328-0-2-1-15-1.html"  >滋补用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/331-0-2-1-15-1.html'>温肾壮阳</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/336-0-2-1-15-1.html'>滋阴补肾</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/919-0-2-1-15-1.html'>
+                                                    综合滋补</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/486-0-2-1-15-1.html"  >前列腺疾病</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1001-0-2-1-15-1.html'>前列腺炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/997-0-2-1-15-1.html'>前列腺肥大</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1134-0-2-1-15-1.html"  >延时产品</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/27634.html'>人初油气雾剂</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E4%B8%87%E8%89%BE%E5%8F%AF'>万艾可</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E9%87%91%E6%88%88'>金戈</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                                <div style="float: right">
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1043-0-2-1-15-1.html"  >阳痿早泄</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E4%BA%94%E5%AD%90%E8%A1%8D%E5%AE%97%E4%B8%B8'>五子衍宗丸</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/28003.html'>汇仁肾宝片</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/22922.html'>神威健阳片</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/30871.html'>七鞭回春乐胶囊</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/31127.html'>海狗丸</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/965-0-2-1-15-1.html"  >脱发少发</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/11860.html'>保法止</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/17990.html'>启悦</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/19545.html'>达霏欣</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/product/12574.html'>养血生发胶囊</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1133-0-2-1-15-1.html"  >情趣器具</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1153-0-2-1-15-1.html'>飞机杯</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/1136-0-2-1-15-1.html'>润滑液</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1130-0-2-1-15-1.html"  >安全套</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E6%9D%9C%E8%95%BE%E6%96%AF'>杜蕾斯</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E5%86%88%E6%9C%AC'>冈本</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=%E5%90%8D%E6%B5%81'>名流</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='item'>
+                        <div class="posi">
+                            <div class="blineBottm">
+                            </div>
+                            <span>
+                                <h3>
+                                    <a target="_blank" href="http://www.360kxr.com/zhuanti/nvxingzhuanqu/">女性专区</a><i>></i></h3>
+                                <p class="clearfix">
+                                    <a target="_blank" href="http://www.360kxr.com/category/285-0-2-1-15-1.html"  >月经不调</a><a target="_blank"
+                                        href="http://www.360kxr.com/category/918-0-2-1-15-1.html"  >乳腺疾病</a><a target="_blank"
+                                            href="http://www.360kxr.com/category/266-0-2-1-15-1.html">更年期综合症</a><a target="_blank" href="http://www.360kxr.com/Search_V2/?id=孕妇">孕妇用药</a><a target="_blank"
+                                                href="http://www.360kxr.com/Search_V2/?id=阴道炎">阴道炎</a><a target="_blank" href="http://www.360kxr.com/category/291-0-2-1-15-1.html">宫颈糜烂</a><a target="_blank"
+                                                    href="http://www.360kxr.com/category/208-0-2-1-15-1.html">减肥瘦身</a><a target="_blank" href="http://www.360kxr.com/category/1083-0-2-1-15-1.html">美容养颜</a><a target="_blank"
+                                                        href="http://www.360kxr.com/category/341-0-2-1-15-1.html">补气补血</a></p>
+                            </span>
+                        </div>
+                        <div class='i-mc i-mc-3'>
+                            <div class='close' onclick="$(this).parent().parent().removeClass('hover')">
+                            </div>
+                            <div class='subitem'>
+                                <div style="float: left">
+                                    <dl class='fore'>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/263-0-2-1-15-1.html"  >女性用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/263-0-2-1-15-1.html'  >妇科炎症</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/268-0-2-1-15-1.html'>细菌性阴道炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/281-0-2-1-15-1.html'>滴虫性阴道炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/287-0-2-1-15-1.html'>霉菌性阴道炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/279-0-2-1-15-1.html'>老年性阴道炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/283-0-2-1-15-1.html'>宫颈炎</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/291-0-2-1-15-1.html'>宫颈糜烂</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/267-0-2-1-15-1.html'>
+                                                    盆腔炎</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/275-0-2-1-15-1.html'>附件炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/272-0-2-1-15-1.html'>子宫肌瘤</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/266-0-2-1-15-1.html'>更年期</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/285-0-2-1-15-1.html'>
+                                                    月经不调</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/273-0-2-1-15-1.html'>痛经</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/270-0-2-1-15-1.html'>月经量少</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/270-0-2-1-15-1.html'>避孕</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/270-0-2-1-15-1.html'>
+                                                    短效避孕药</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/270-0-2-1-15-1.html'>紧急避孕药</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/919-0-2-1-15-1.html'>滋补</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/341-0-2-1-15-1.html'>滋补养血</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/208-0-2-1-15-1.html'>
+                                                    美容养颜</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/208-0-2-1-15-1.html'>减肥瘦身</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/341-0-2-1-15-1.html'>贫血</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/Search_V2/?id=维生素'>维生素</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/669-0-2-1-15-1.html"  >婴幼儿用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=奶粉'>奶粉辅食</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/971-0-2-1-15-1.html'>
+                                                营养食品</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=驱蚊'>洗护用品</a></em>
+                                        </dd>
+                                    </dl>
+                                    
+                                </div>
+                                <div style="float: right">
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/Search_V2/?id=孕妇"  >孕期用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=孕妇'>孕前期</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=孕妇'>
+                                                孕中期</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=孕妇'>哺乳期</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=排卵试纸'>排卵测试</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=辐射服'>
+                                                辐射服</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=缺乳'>缺乳</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=排卵试纸'>验孕测试</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=胎心仪'>
+                                                胎心仪</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=乳腺炎'>乳腺炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=维生素'>维生素</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=缩阴'>
+                                                缩阴</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=补铁'>补铁</a></em> <em><a target="_blank" href='http://www.360kxr.com/Search_V2/?id=保胎'>
+                                                    保胎安胎</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/394-0-2-1-15-1.html"  >儿童用药</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/398-0-2-1-15-1.html'>呼吸道</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/406-0-2-1-15-1.html'>感冒</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/406-0-2-1-15-1.html'>
+                                                    发烧</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/970-0-2-1-15-1.html'>咳嗽</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/398-0-2-1-15-1.html'>上感</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/973-0-2-1-15-1.html'>胃肠道</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/414-0-2-1-15-1.html'>
+                                                    腹泻</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/973-0-2-1-15-1.html'>消化不良</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/971-0-2-1-15-1.html'>营养补充</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/971-0-2-1-15-1.html'>DHA</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/971-0-2-1-15-1.html'>
+                                                    鱼肝油</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/971-0-2-1-15-1.html'>维生素</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/668-0-2-1-15-1.html'>多动症</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/791-0-2-1-15-1.html'>遗尿症</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/396-0-2-1-15-1.html'>
+                                                    惊风</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/410-0-2-1-15-1.html'>鼻炎</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/404-0-2-1-15-1.html' class="more">其他</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='item'>
+                        <div class="posi">
+                            <div class="blineBottm">
+                            </div>
+                            <span>
+                                <h3>
+                                    <a target="_blank" href="http://www.360kxr.com/instrument.html">医疗器械</a><i>></i></h3>
+                                <p class="clearfix">
+                                    <a target="_blank" href="http://www.360kxr.com/category/622-0-2-1-15-1.html"  >血糖注射</a><a target="_blank"
+                                        href="http://www.360kxr.com/category/621-0-2-1-15-1.html"  >血糖仪</a><a target="_blank"href="http://www.360kxr.com/category/164-0-2-1-15-1.html
+">血压计</a><a target="_blank" href="http://www.360kxr.com/category/162-0-2-1-15-1.html">助行设备</a><a target="_blank"
+                                                href="http://www.360kxr.com/category/155-0-2-1-15-1.html">制氧设备</a><a target="_blank" href="http://www.360kxr.com/category/592-0-2-1-15-1.html">雾化器</a><a target="_blank"
+                                                    href="http://www.360kxr.com/category/902-0-2-1-15-1.html">火罐刮痧</a><a target="_blank" href="http://www.360kxr.com/category/166-0-2-1-15-1.html">保健按摩</a><a target="_blank"
+                                                        href="http://www.360kxr.com/category/903-0-2-1-15-1.html">针灸热灸</a></p>
+                            </span>
+                        </div>
+                        <div class='i-mc i-mc-4'>
+                            <div class='close' onclick="$(this).parent().parent().removeClass('hover')">
+                            </div>
+                            <div class='subitem'>
+                                <div style="float: left">
+                                    <dl class='fore'>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/152-0-2-1-15-1.html"  >家庭常备</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/565-0-2-1-15-1.html'>创口护理</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/566-0-2-1-15-1.html'>口罩</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/568-0-2-1-15-1.html'>
+                                                    纱布胶带</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/569-0-2-1-15-1.html'>药箱</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/876-0-2-1-15-1.html'>杀菌消毒</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/155-0-2-1-15-1.html"  >制氧设备</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/906-0-2-1-15-1.html'>制氧设备</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/909-0-2-1-15-1.html'>储氧设备</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/158-0-2-1-15-1.html"  >血糖尿糖</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/616-0-2-1-15-1.html'>试纸类</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/621-0-2-1-15-1.html'>血糖仪</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/622-0-2-1-15-1.html'>
+                                                    血糖注射</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/877-0-2-1-15-1.html'>血氧饱和度仪</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/162-0-2-1-15-1.html"  >助行设备</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/646-0-2-1-15-1.html'>拐杖</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/647-0-2-1-15-1.html'>轮椅</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/648-0-2-1-15-1.html'>
+                                                    助行车</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/649-0-2-1-15-1.html'>坐便椅</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/164-0-2-1-15-1.html"  >血压系列</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/623-0-2-1-15-1.html'>电子血压计</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/624-0-2-1-15-1.html'>听诊器</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/625-0-2-1-15-1.html'>自助血压计</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/653-0-2-1-15-1.html'>
+                                                    降压仪</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/166-0-2-1-15-1.html"  >保健按摩</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/543-0-2-1-15-1.html'>减肥按摩</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/546-0-2-1-15-1.html'>头部按摩</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/547-0-2-1-15-1.html'>
+                                                    眼部按摩</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/548-0-2-1-15-1.html'>腰背按摩</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/169-0-2-1-15-1.html"  >居家生活</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/580-0-2-1-15-1.html'>鼻腔护理器</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/582-0-2-1-15-1.html'>口腔用品</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/592-0-2-1-15-1.html'>雾化器</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/595-0-2-1-15-1.html'>
+                                                    眼罩</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/865-0-2-1-15-1.html'>个人磅秤</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/873-0-2-1-15-1.html'>运动系列</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/1034-0-2-1-15-1.html'>体温计</a></em>
+                                        </dd>
+                                    </dl>
+                                    
+                                </div>
+                                <div style="float: right">
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/153-0-2-1-15-1.html"  >康复系列</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/574-0-2-1-15-1.html'>牵引用品</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/575-0-2-1-15-1.html'>贴膏</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/899-0-2-1-15-1.html'>
+                                                    贴膏系列</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/900-0-2-1-15-1.html'>保护固定</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/902-0-2-1-15-1.html'>火罐刮痧</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/903-0-2-1-15-1.html'>针灸热灸</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1088-0-2-1-15-1.html'>
+                                                    术后护理</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/156-0-2-1-15-1.html"  >护理用品</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/558-0-2-1-15-1.html'>大小便器</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/560-0-2-1-15-1.html'>褥疮护理</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/561-0-2-1-15-1.html'>
+                                                    疝气治疗</a></em> <em><a target="_blank" href='###'>健康枕</a></em> <em><a target="_blank" href='###'>冲便器</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/891-0-2-1-15-1.html'>其他</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/161-0-2-1-15-1.html"  >敷料器具</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/666-0-2-1-15-1.html'>刀剪钳镊</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/884-0-2-1-15-1.html'>医用检查</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/887-0-2-1-15-1.html'>
+                                                    注射用品</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/163-0-2-1-15-1.html"  >服饰系列</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/555-0-2-1-15-1.html'>防辐射服</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/165-0-2-1-15-1.html"  >护具系列</a></dt>
+                                        <dd>                       
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/609-0-2-1-15-1.html'>护腿</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/610-0-2-1-15-1.html'>护腕</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/611-0-2-1-15-1.html'>
+                                                    护膝</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/612-0-2-1-15-1.html'>护肘</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/614-0-2-1-15-1.html'>束腰</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/167-0-2-1-15-1.html"  >检测康复</a></dt>
+                                        <dd>
+                                             <em><a target="_blank" href='http://www.360kxr.com/category/880-0-2-1-15-1.html'>
+                                                检测仪</a></em>  <em><a target="_blank" href='http://www.360kxr.com/category/882-0-2-1-15-1.html'>
+                                                    治疗仪</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1049-0-2-1-15-1.html"
+                                             >隐形眼镜</a></dt>
+                                        <dd style="padding-left: 65px;">
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1050-0-2-1-15-1.html'>润眼液</a></em> <em><a target="_blank"
+                                                href='http://www.360kxr.com/category/1051-0-2-1-15-1.html'>护理液</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1052-0-2-1-15-1.html'>
+                                                    护理盒</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/911-0-2-1-15-1.html"  >其他系列</a></dt>
+                                        <dd>
+                                             <em><a target="_blank" href='http://www.360kxr.com/category/1035-0-2-1-15-1.html'>
+                                                助听器</a></em> 
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='item'>
+                        <div class="posi">
+                            <div class="blineBottm">
+                            </div>
+                            <span>
+                                <h3>
+                                    <a target="_blank" href="http://www.360kxr.com/healthfood.html">健康养生</a><i>></i></h3>
+                                <p class="clearfix">
+                                    <a target="_blank" href="http://www.360kxr.com/category/1073-0-2-1-15-1.html"  >辅助降压</a>
+                                    <a target="_blank" href="http://www.360kxr.com/category/1066-0-2-1-15-1.html"  >调节血糖</a>
+                                    <a target="_blank" href="http://www.360kxr.com/category/1082-0-2-1-15-1.html">保肝护肝</a> <a target="_blank" href="http://www.360kxr.com/category/1085-0-2-1-15-1.html">
+                                        孕产妇用</a> <a target="_blank" href="http://www.360kxr.com/category/1068-0-2-1-15-1.html">骨质疏松</a>
+                                    <a target="_blank" href="http://www.360kxr.com/category/1069-0-2-1-15-1.html">改善胃肠</a> <a target="_blank" href="http://www.360kxr.com/category/1078-0-2-1-15-1.html">
+                                        免疫调节</a> <a target="_blank" href="http://www.360kxr.com/category/1077-0-2-1-15-1.html">延缓衰老</a>
+                                    <a target="_blank" href="http://www.360kxr.com/category/1079-0-2-1-15-1.html">缓解疲劳</a>
+                                </p>
+                            </span>
+                        </div>
+                        <div class='i-mc i-mc-5'>
+                            <div class='close' onclick="$(this).parent().parent().removeClass('hover')">
+                            </div>
+                            <div class='subitem'>
+                                <div style="float: left">
+                                    <dl class='fore'>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1061-0-2-1-15-1.html"  >保健食品</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1079-0-2-1-15-1.html'>补肾强身</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1064-0-2-1-15-1.html'>纤体排毒</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1078-0-2-1-15-1.html'>免疫调节</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1083-0-2-1-15-1.html'>美容养颜</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1085-0-2-1-15-1.html'>孕产妇用</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1084-0-2-1-15-1.html'>成长发育</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1069-0-2-1-15-1.html'>胃肠养护</a></em><em><a target="_blank" href='http://www.360kxr.com/category/1073-0-2-1-15-1.html'>辅助降压</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1071-0-2-1-15-1.html
+'>辅助降血脂</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1066-0-2-1-15-1.html'>辅助降血糖</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1068-0-2-1-15-1.html'>骨骼健康</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1082-0-2-1-15-1.html'>保肝护肝</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1072-0-2-1-15-1.html'>改善记忆</a></em>   <em><a target="_blank" href='http://www.360kxr.com/category/1080-0-2-1-15-1.html'>改善睡眠</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1081-0-2-1-15-1.html'>清咽润喉</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1074-0-2-1-15-1.html'>缓解视疲劳</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1075-0-2-1-15-1.html'>维矿物质</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1062-0-2-1-15-1.html'>养生茶饮</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/1063-0-2-1-15-1.html
+'>传统滋补</a></em>                                          
+                                        </dd>
+                                    </dl>
+                                </div>
+                                <div style="float: right">
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1063-0-2-1-15-1.html"  >药食同源</a></dt>
+                                        <dd>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/healthfood.html"  >精品贵细</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/795-0-2-1-15-1.html'>参类</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/796-0-2-1-15-1.html'>鹿茸</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/798-0-2-1-15-1.html'>组合药膳</a></em>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/802-0-2-1-15-1.html'>蜂制品</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/803-0-2-1-15-1.html'>冬虫夏草</a></em> <em><a target="_blank" href='http://www.360kxr.com/category/808-0-2-1-15-1.html'>洋参礼盒</a></em><em><a target="_blank" href='http://www.360kxr.com/category/811-0-2-1-15-1.html'>其他礼盒</a></em><em><a target="_blank" href='http://www.360kxr.com/category/1042-0-2-1-15-1.html'>精制饮片</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1062-0-2-1-15-1.html"  >普通食品</a></dt>
+                                        <dd>
+                                            <em><a target="_blank" href='http://www.360kxr.com/category/1151-0-2-1-15-1.html'>奶粉</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='item' style="height: 109px;">
+                        <div class="posi">
+                            <div class="blineBottm">
+                            </div>
+                            <span style="height: 105px;">
+                                <h3>
+                                    <a target="_blank" href="http://www.360kxr.com/adult.html"  >计生用品</a><i>></i></h3>
+                                <p class="clearfix" style="height: 105px;">
+                                    <a target="_blank" href="http://www.360kxr.com/category/1130-0-2-1-15-1.html"  >安全套</a><a target="_blank"
+                                        href="http://www.360kxr.com/category/1134-0-2-1-15-1.html"  >延时产品</a><a target="_blank"
+                                            href="http://www.360kxr.com/category/1133-0-2-1-15-1.html"  >情趣用品</a></p>
+                            </span>
+                        </div>
+                        <div class='i-mc i-mc-6'>
+                            <div class='close' onclick="$(this).parent().parent().removeClass('hover')">
+                            </div>
+                            <div class='subitem'>
+                                <div style="float: left">
+                                    <dl class='fore'>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1130-0-2-1-15-1.html"  >安全套</a></dt>
+                                        <dd>
+                                            <em><a target="_blank"   href='http://www.360kxr.com/category/1138-0-2-1-15-1.html'  >超薄型</a></em>
+                                            <em><a target="_blank"   href='http://www.360kxr.com/category/1139-0-2-1-15-1.html'>果味型</a></em> <em><a target="_blank"  
+                                                href='http://www.360kxr.com/category/1140-0-2-1-15-1.html'>爽滑性</a></em> <em><a target="_blank"   href='http://www.360kxr.com/category/1141-0-2-1-15-1.html'>
+                                                    螺纹浮点型</a></em> <em><a target="_blank"   href='http://www.360kxr.com/category/1142-0-2-1-15-1.html'>小号</a></em>
+                                            <em><a target="_blank"   href='http://www.360kxr.com/category/1143-0-2-1-15-1.html'>活力装</a></em> <em><a target="_blank"  
+                                                href='http://www.360kxr.com/category/1145-0-2-1-15-1.html'>双重保护型</a></em> <em><a target="_blank"  
+                                                    href='http://www.360kxr.com/category/1146-0-2-1-15-1.html'>持久型</a></em>
+                                            <em><a target="_blank"   href='http://www.360kxr.com/category/1144-0-2-1-15-1.html' class="more">其他</a></em>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1131-0-2-1-15-1.html"  >避孕药</a></dt>
+                                        <dd><em><a target="_blank"   href='http://www.360kxr.com/category/916-0-2-1-15-1.html'  >紧急避孕</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                                <div style="float: right">
+                                    <dl>
+                                        <dt style="width: 75px"><a target="_blank" href="http://www.360kxr.com/category/1132-0-2-1-15-1.html"
+                                             >排卵验孕试纸</a></dt>
+                                        <dd>
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt><a target="_blank" href="http://www.360kxr.com/category/1133-0-2-1-15-1.html"  >情趣用品</a></dt>
+                                        <dd>
+                                            <em><a target="_blank"   href='http://www.360kxr.com/category/1134-0-2-1-15-1.html'>增强延时</a></em>
+                                            <em><a target="_blank"   href='http://www.360kxr.com/category/1135-0-2-1-15-1.html'>G点探索</a></em>
+                                            <em><a target="_blank"   href='http://www.360kxr.com/category/1136-0-2-1-15-1.html'>润滑剂</a></em> 
+                                            <em><a target="_blank"  
+                                                href='http://www.360kxr.com/category/1137-0-2-1-15-1.html'>玩具清洁</a></em> <em><a target="_blank"   href='http://www.360kxr.com/category/1153-0-2-1-15-1.html'>
+                                                    飞机杯</a></em>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class='extra'><a target="_blank" href='###'>全部商品分类</a></div> -->
+                </div>
+            </div>
+            
+            <div class="nav-right">
+                <ul class="clearfix">
+                    <li><a href="/" style="background: #a62326">首&nbsp;&nbsp;页</a></li>
+                    <li><a href="/drugs.html" target="_blank">药&nbsp;&nbsp;品</a></li>
+                    <!-- <li><a href="/zhuanti/aojiaojie/" target="_blank" style="color: #fef597">熬胶节</a></li> -->
+                    <!-- <li><a href="/zhuanti/menuse/" target="_blank">男性健康</a></li>-->
+                    <!-- <li><a href="/instrument.html" target="_blank">医疗器械</a></li>-->
+					<!-- <li><a href="/zhuanti/nvxingzhuanqu/" target="_blank">母婴专区</a></li>-->
+                    <!-- <li><a href="http://www.360kxr.com/yongyao/" style="color: #fef597" target="_blank">健康资讯</a></li>-->
+					<li><a href="http://www.360kxr.com/zhuanti/xiaoshu/" style="color: #fef597" target="_blank">防暑降温</a></li>
+                    <!-- <li><a href="http://www.360kxr.com/zhuanti/kuihua1/" target="_blank">葵花专场</a></li>-->
+					<!-- <li><a href="http://www.360kxr.com/healthfood.html" target="_blank">健康养生</a></li>-->
+                    <!-- <li><a href="http://www.360kxr.com/zhuanti/tongrentang/" target="_blank">同仁堂专场</a></li>-->
+                </ul>
+                <div class="cartShop" id="cartShop">
+                    <a href="/ShoppingCart/NewIndex" class="title" title="开心人大药房购物车" target="_blank">我的购物车(<span
+                        id="number">0</span>)</a>
+                    <div class="zero">
+                        <span>购物车中还没有商品,赶紧选购吧</span>
+                    </div>
+                    <div class="have">
+                        <h2>
+                            最新加入的商品</h2>
+                        <ol>
+                            <li class="clearfix">
+                                <div class="car_price">
+                                    <p>
+                                        <em>￥</em><span>528.00</span><b>x</b><strong>1</strong></p>
+                                    <p class="delete">
+                                        删除</p>
+                                </div>
+                                <div class="goods">
+                                    <dl class="clearfix">
+                                        <dt><a href="">
+                                            <img src="tubiao/ej.jpg" width="50" height="50">
+                                        </a></dt>
+                                        <dd>
+                                            <a href=""><span>福牌阿胶精制铁盒2盒装</span></a></dd>
+                                    </dl>
+                                </div>
+                            </li>
+                        </ol>
+                        <div class="calcu">
+                            <p>
+                                <span>共<em>1</em>件商品</span><span>共计:<b>￥</b><strong>528.00</strong></span></p>
+                            <p>
+                                <a href="">去购物车结算</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container_main">
+        <div class="main clearfix">
+            <div class="main_right">
+                <div class="main_r_move" id="banner_right">
+                    <div class='move'><a target='_blank' href='http://www.360kxr.com/product/28003.html'><img src='http://img.360kxr.com/info/2018/04/20180402131553104852.jpg' width='260' height='129'></a></div><div class='move gap'><a target='_blank' href='http://www.360kxr.com/product/28846.html'><img src='http://img.360kxr.com/info/2018/04/20180402131653195157.jpg' width='260' height='129'></a></div><div class='move'><a target='_blank' href='http://www.360kxr.com/product/34496.html'><img src='http://img.360kxr.com/info/2018/04/20180402131636410947.jpg' width='260' height='129'></a></div>
+                </div>
+                <div class="main_r_tab">
+                    <div id="tabbox">
+                        <ul class="tabs" id="tabs">
+                            <li class="thistab"><a href=" ">正品保障</a></li>
+                            <li><a href=" ">网站公告</a></li>
+                            <li><a href=" ">信誉资质</a></li>
+                        </ul>
+                        <ul class="tab_conbox" id="tab_conbox">
+                            <li class="tab_con" style="display: list-item;">
+                                <p>
+                                    <a href="http://www.360kxr.com/help/detail/68.html" target="_blank" rel="nofollow"><span
+                                        class="one">万种商品绝对正品</span></a></p>
+                                <p>
+                                    <a href="http://www.360kxr.com/help/detail/2864.html" target="_blank" rel="nofollow"><span
+                                        class="two">全场满99元免运费</span></a></p>
+                                <p>
+                                    <a href="http://www.360kxr.com/help/detail/85.html" target="_blank" rel="nofollow"><span
+                                        class="three">七天无条件退货</span></a></p>
+                                <p>
+                                    <a href="http://www.360kxr.com/help/detail/86.html" target="_blank" rel="nofollow"><span
+                                        class="four">2000城市货到付款</span></a></p>
+                            </li>
+                            <li class="tab_con" style="display: none;"><a href='/notice/detail/2863.html' target='_blank' title='快递春节停运通知' rel='nofollow'>快递春节停运通知</a><a href='/notice/detail/2307.html' target='_blank' title='防止假冒客服电话诈骗公告' rel='nofollow'>防止假冒客服电话诈骗公告</a><a href='/notice/detail/2304.html' target='_blank' title='警惕！冒充开心人的电话诈骗' rel='nofollow'>警惕！冒充开心人的电话诈骗</a><a href='/notice/detail/2264.html' target='_blank' title='注意！本网站未与券妈妈网站合作' rel='nofollow'>注意！本网站未与券妈妈网站合作</a><a href='/notice/detail/2261.html' target='_blank' title='积分清零活动公告' rel='nofollow'>积分清零活动公告</a><a href='/notice/detail/2256.html' target='_blank' title='1%工程携手开心人大药房扶贫帮困活动' rel='nofollow'>1%工程携手开心人大药房扶贫..</a><a href='/notice/detail/2187.html' target='_blank' title='百度与药监局达成医药网站搜索认证' rel='nofollow'>百度与药监局达成医药网站搜索..</a></li>‍
+                            <li class="tab_con" style="display: none;"><a title="互联网药品交易服务资格证书" target="_blank"
+                                href="http://www.360kxr.com/aboutus/qualification/105.html" looyu_bound="1">互联网药品交易服务资格证书</a>
+                                <a title="互联网药品交易服务资格证书" target="_blank" href="http://www.360kxr.com/aboutus/qualification/106.html"
+                                    looyu_bound="1">互联网药品信息服务资格证书</a> <a title="增值电信业务经营许可证" target="_blank" href="http://www.360kxr.com/aboutus/qualification/189.html"
+                                        looyu_bound="1">增值电信业务经营许可证</a> <a title="药品经营许可证" target="_blank" href="http://www.360kxr.com/aboutus/qualification/108.html"
+                                            looyu_bound="1">药品经营许可证</a> <a title="医疗器械经营企业许可证" target="_blank" href="http://www.360kxr.com/aboutus/qualification/109.html"
+                                                looyu_bound="1">医疗器械经营企业许可证</a> <a title="互联网药品交易服务资格证书" target="_blank" href="http://www.360kxr.com/aboutus/qualification/110.html"
+                                                    looyu_bound="1">食品卫生许可证</a> <a title="公司营业执照" target="_blank" href="http://www.360kxr.com/aboutus/qualification/111.html"
+                                                        looyu_bound="1">公司营业执照</a>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+				
+            </div>
+            <div class="main_left">
+                <div class="main_l_slide">
+                    <div class="example2" id="bannerCon">
+                        <ul><li><a href='https://www.zhongzilou.com/' target='_blank' title='私人药房'><img src='http://img.360kxr.com/info/2018/08/20180830172440583297.jpg' alt='1' width='690px' height='390px'></a></li><li><a href='https://www.zhongzilou.com/' target='_blank' title='皮肤管理'><img src='http://img.360kxr.com/info/2018/08/20180817113832446130.jpg' alt='2' width='690px' height='390px'></a></li><li><a href='https://www.zhongzilou.com/' target='_blank' title='食疗配方'><img src='http://img.360kxr.com/info/2018/08/20180817113803009812.jpg' alt='3' width='690px' height='390px'></a></li></ul> <ol><li></li><li></li><li></li></ol>
+                    </div>
+                </div>
+                <div class="main_l_time">
+                    <div class='main_l_time_title clearfix'><div class='time_title_clock_announce'><a id='next'>下期预告</a><div class='main_l_time_con main_l_time_con_next clearfix' id='pro_t1'></div></div><div class='time_title_clock'><div class='title_clock_name'>限时特价</div><div class='title_clock_con'><span>还剩</span><div class='retroclock'><div id='retroclockbox1'></div></div><span>结束</span></div></div></div><div class='main_l_time_con clearfix' id='pro_t'><div class='red_line' id='red_line'></div></div>
+                </div>
+            </div>
+        </div>
+        <div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/product/7854.html' title='万艾可'>万艾可</a><a target='_blank' href='http://www.360kxr.com/product/31266.html' title='金戈'>金戈</a><a target='_blank' href='http://www.360kxr.com/product/14166.html' title='希爱力'>希爱力</a><a target='_blank' href='http://www.360kxr.com/product/30126.html' title='必利劲'>必利劲</a><a target='_blank' href='http://www.360kxr.com/category/486-0-2-1-15-1.html' title='前列腺疾病'>前列腺疾病</a><a target='_blank' href='http://www.360kxr.com/category/1043-0-2-1-15-1.html' title='阳痿早泄'>阳痿早泄</a><a target='_blank' href='http://www.360kxr.com/category/341-0-2-1-15-1.html' title='气血亏虚'>气血亏虚</a><a target='_blank' href='http://www.360kxr.com/category/965-0-2-1-15-1.html' title='脱发白发'>脱发白发</a><a target='_blank' href=' http://www.360kxr.com/product/17845.html' title='肾阳虚'>肾阳虚</a><a target='_blank' href='http://www.360kxr.com/product/8503.html' title='肾阴虚'>肾阴虚</a><a target='_blank' href='http://www.360kxr.com/product/21539.html' title='不孕不育'>不孕不育</a></div><div class='flo_name'><em class='f1'>1F</em><span>男性健康</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/914-0-2-1-15-1.html' title='性功能障碍' style='width:97px'>性功能障碍</a><a target='_blank' href='http://www.360kxr.com/category/331-0-2-1-15-1.html' title='补肾壮阳'>补肾壮阳</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/919-0-2-1-15-1.html' title='锁阳固精' style='width:97px'>锁阳固精</a><a target='_blank' href='http://www.360kxr.com/category/331-0-2-1-15-1.html' title='补肾益精'>补肾益精</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/965-0-2-1-15-1.html' title='脱发少发' style='width:97px'>脱发少发</a><a target='_blank' href='http://www.360kxr.com/product/7854.html' title='万艾可'>万艾可</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/product/14165.html' title='希爱力' style='width:97px'>希爱力</a><a target='_blank' href='http://www.360kxr.com/category/965-0-2-1-15-1.html' title='防脱止脱'>防脱止脱</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/22997.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/42dda218a0b043a2bc7b2a6fb2963ab6.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example3'><ul><li><a target='_blank' href='http://www.360kxr.com/product/20777.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/c99000977f544593a72a53fc23d318d1.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/28003.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/0345168df5ea4667aa7f1d27ea4efc5d.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/12572.html' title='同仁堂 六味地黄丸（浓缩丸）120丸'><img src='http://img.360kxr.com/product/2016/07/2c4c1c4376df495cb6d8b0bddd6c269d.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/12572.html'>同仁堂 六味地黄丸..</a></p>      <p class='ls_tx_effect'>阴补肾。用于肾阴亏损</p>      <p class='money'><em>￥</em><span>15.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/28003.html' title='汇仁  肾宝片 126片'><img src='http://img.360kxr.com/product/2014/10/b3b372b237b44e5e98ec0907c5b10ef2.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/28003.html'>汇仁  肾宝片 1..</a></p>      <p class='ls_tx_effect'>补肾壮阳  2盒一..</p>      <p class='money'><em>￥</em><span>288.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/34575.html' title='包邮】塔禧 麦卢卡丨蜂蜜10+   400g'><img src='http://img.360kxr.com/product/2017/05/97933c82e7a54e389d14bd81e15a9146.png' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/34575.html'>包邮】塔禧 麦卢卡..</a></p>      <p class='ls_tx_effect'>新西兰进口高端蜂蜜..</p>      <p class='money'><em>￥</em><span>185.00</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/product/28846.html' title='阿胶'>阿胶</a><a target='_blank' href='http://www.360kxr.com/product/8718.html' title='驴胶补血'>驴胶补血</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E4%B8%89%E4%B8%83' title='三七'>三七</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%BA%B7%E7%BE%8E' title='康美'>康美</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%A6%8F%E7%89%8C' title='福牌'>福牌</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%B7%9D%E8%B4%9D' title='川贝'>川贝</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%9F%B3%E6%96%9B' title='石斛'>石斛</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%9E%AB%E6%96%97' title='枫斗'>枫斗</a><a target='_blank' href='http://www.360kxr.com/category/1083-0-2-1-15-1.html' title='抗衰老'>抗衰老</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%9C%82%E8%9C%9C' title='蜂蜜'>蜂蜜</a></div><div class='flo_name'><em class='f2'>2F</em><span>滋补保健</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/341-0-2-1-15-1.html' title='补气补血' style='width:97px'>补气补血</a><a target='_blank' href='http://www.360kxr.com/category/1077-0-2-1-15-1.html' title='抗衰老'>抗衰老</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%98%BF%E8%83%B6' title='阿胶' style='width:97px'>阿胶</a><a target='_blank' href='http://www.360kxr.com/category/802-0-2-1-15-1.html' title='蜂蜜'>蜂蜜</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/919-0-2-1-15-1.html' title='补中益气' style='width:97px'>补中益气</a><a target='_blank' href='http://www.360kxr.com/category/982-0-2-1-15-1.html' title='保肝护肝'>保肝护肝</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/1079-0-2-1-15-1.html' title='缓解疲劳' style='width:97px'>缓解疲劳</a><a target='_blank' href='http://www.360kxr.com/category/1080-0-2-1-15-1.html' title='改善睡眠'>改善睡眠</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/35198.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/954af52195b94f2d9ac63b4ed79c1223.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example4'><ul><li><a target='_blank' href='http://www.360kxr.com/product/28846.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/0ab3f091b9bb41f19068af92b2fba2bc.jpg' alt='1' width='279px' height='265px'></a></li></ul><ol><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/35689.html' title='北京同仁堂总统西洋参90g西洋参切片 3#参片'><img src='http://img.360kxr.com/product/2017/12/6800257b6406433e8dadab752fb12c48.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35689.html'>北京同仁堂总统西洋..</a></p>      <p class='ls_tx_effect'>非质量问题，不支持..</p>      <p class='money'><em>￥</em><span>518.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/35737.html' title='康美枸杞子150g 宁夏枸杞 '><img src='http://img.360kxr.com/product/2018/01/60d4c5fd2978433a85e5c3e5bd61a542.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35737.html'>康美枸杞子150g..</a></p>      <p class='ls_tx_effect'>滋补肝肾，益精明目..</p>      <p class='money'><em>￥</em><span>59.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/35738.html' title='【顺丰包邮】北京同仁堂 总统牌 冬虫夏草-30/22g 西藏虫草 礼盒装'><img src='http://img.360kxr.com/product/2018/01/aff826f1779945c18a7146ca9d057d5a.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35738.html'>【顺丰包邮】北京同..</a></p>      <p class='ls_tx_effect'>非质量问题，不支持..</p>      <p class='money'><em>￥</em><span>11800.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/35749.html' title='康美 党参片 150g/瓶 甘肃产非野生无硫党参可配黄芪当归'><img src='http://img.360kxr.com/product/2018/01/46e511a349ed4f76b4eb61e9638b0a26.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35749.html'>康美 党参片 15..</a></p>      <p class='ls_tx_effect'>健脾益肺，养血生津..</p>      <p class='money'><em>￥</em><span>123.80</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%92%99%E5%B0%94%E5%A5%87' title='钙尔奇'>钙尔奇</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%96%84%E5%AD%98' title='善存'>善存</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%B3%A1%E8%85%BE%E7%89%87' title='泡腾片'>泡腾片</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%A1%A5%E9%92%99' title='补钙'>补钙</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%A1%A5%E9%94%8C' title='补锌'>补锌</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E4%BF%83%E8%BF%9B%E9%92%99%E5%90%B8%E6%94%B6' title='促进钙吸收'>促进钙吸收</a><a target='_blank' href='http://www.360kxr.com/product/16197.html' title='丹莪妇康煎膏'>丹莪妇康煎膏</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%B0%91%E7%94%9F' title='民生'>民生</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%96%84%E5%AD%98%E9%93%B6' title='善存银'>善存银</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%87%91%E9%92%99%E5%B0%94%E5%A5%87' title='金钙尔奇'>金钙尔奇</a></div><div class='flo_name'><em class='f3'>3F</em><span>维矿物质</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%BB%B4%E7%94%9F%E7%B4%A0C' title='维C' style='width:97px'>维C</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%BB%B4%E7%94%9F%E7%B4%A0D' title='促进钙吸收'>促进钙吸收</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%BB%B4%E7%94%9F%E7%B4%A0' title='补充维生素' style='width:97px'>补充维生素</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%92%99' title='补钙'>补钙</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%94%8C%E9%92%99%E5%8F%A3%E6%9C%8D%E6%B6%B2' title='葡萄糖酸锌钙口服液' style='width:97px'>葡萄糖酸锌钙口服液</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%96%84%E5%AD%98' title='善存'>善存</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%92%99%E5%B0%94%E5%A5%87' title='钙尔奇' style='width:97px'>钙尔奇</a></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/35471.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/24bea86867074818ad36fde70914e619.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example5'><ul><li><a target='_blank' href='http://www.360kxr.com/product/19639.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/90f46463f6874aedbf8b2710390e3405.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/7798.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/000b0cfd6c614342962657c0303493f7.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/12345.html' title='力度伸 维生素C泡腾片 1g*10片 增强抵抗力补充维生素C'><img src='http://img.360kxr.com/product/2017/10/e8800427b22046d5bd7d80225b8a5e81.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/12345.html'>力度伸 维生素C泡..</a></p>      <p class='ls_tx_effect'>补充VC增强抵抗力..</p>      <p class='money'><em>￥</em><span>24.80</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/17249.html' title='同仁堂 补中益气丸 6g*10袋*6盒'><img src='http://img.360kxr.com/product/2014/09/40acc2fb0d374271af55b6bddaab82e7.JPG' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/17249.html'>同仁堂 补中益气丸..</a></p>      <p class='ls_tx_effect'>用于脾胃虚弱、中气..</p>      <p class='money'><em>￥</em><span>80.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/30102.html' title='玛特纳 复方多维元素片（23） 60粒'><img src='http://img.360kxr.com/product/2014/04/110f88fcf3b44edf8d85d1ea252c29ff.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/30102.html'>玛特纳 复方多维元..</a></p>      <p class='ls_tx_effect'>全面提供孕期维生素..</p>      <p class='money'><em>￥</em><span>150.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/34496.html' title='康美 三七粉 88g 云南文山道地三七粉三七头打细粉田七粉'><img src='http://img.360kxr.com/product/2016/12/9826eb2ea2c547ecaa7ac5c10afe500e.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/34496.html'>康美 三七粉 88..</a></p>      <p class='ls_tx_effect'> 散瘀止血，消肿定..</p>      <p class='money'><em>￥</em><span>158.00</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%88%9B%E5%8F%AF%E8%B4%B4' title='创可贴'>创可贴</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%97%94%E7%96%AE' title='痔疮'>痔疮</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E4%BA%91%E5%8D%97%E7%99%BD%E8%8D%AF' title='云南白药'>云南白药</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%82%A6%E8%BF%AA' title='邦迪'>邦迪</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=999%E6%84%9F%E5%86%92%E7%81%B5' title='999感冒灵'>999感冒灵</a><a target='_blank' href='http://www.360kxr.com/product/8720.html' title='三九胃泰'>三九胃泰</a><a target='_blank' href='http://www.360kxr.com/category/349-0-2-1-15-1.html' title='风湿关节炎'>风湿关节炎</a><a target='_blank' href='http://www.360kxr.com/product/34336.html' title='润眼液'>润眼液</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%80%B3%E8%81%8B%E4%B8%B8' title='耳聋丸'>耳聋丸</a></div><div class='flo_name'><em class='f4'>4F</em><span>家庭常备</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/201-0-2-1-15-1.html' title='感冒咳嗽' style='width:97px'>感冒咳嗽</a><a target='_blank' href='http://www.360kxr.com/category/483-0-2-1-15-1.html' title='口腔溃疡'>口腔溃疡</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/375-0-2-1-15-1.html' title='急慢性腹泻' style='width:97px'>急慢性腹泻</a><a target='_blank' href='http://www.360kxr.com/category/376-0-2-1-15-1.html' title='便秘'>便秘</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/983-0-2-1-15-1.html' title='过敏鼻炎' style='width:97px'>过敏鼻炎</a><a target='_blank' href='http://www.360kxr.com/category/227-0-2-1-15-1.html' title='皮炎湿疹'>皮炎湿疹</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/229-0-2-1-15-1.html' title='烧伤烫伤' style='width:97px'>烧伤烫伤</a><a target='_blank' href='http://www.360kxr.com/category/567-0-2-1-15-1.html' title='酒精棉球'>酒精棉球</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/22146.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/c1092c2c3a2a487eb72e902f3f2303b3.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example6'><ul><li><a target='_blank' href='http://www.360kxr.com/product/11869.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/e3a969fe0f46479da3b2dc7b44153ebb.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/11977.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/8908bfcfbc304777bcefffc2165fb493.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/8698.html' title='云南白药气雾剂 50g+60g（效期至201908）'><img src='http://img.360kxr.com/product/2013/08/d4129bd2e1e24733b3d2204b5b2b4506.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/8698.html'>云南白药气雾剂 5..</a></p>      <p class='ls_tx_effect'>活血散瘀，消肿止痛..</p>      <p class='money'><em>￥</em><span>25.80</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/12547.html' title='999 感冒灵颗粒 10g*9袋'><img src='http://img.360kxr.com/product/2017/11/8bbc76422edc4b499e8218eda23748a6.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/12547.html'>999 感冒灵颗粒..</a></p>      <p class='ls_tx_effect'>热销感冒药，家庭常..</p>      <p class='money'><em>￥</em><span>13.50</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/12661.html' title='百多邦 莫匹罗星软膏 5g（效期至201906）'><img src='http://img.360kxr.com/product/2017/10/b1df6e4b45da4ae0832e89e598dcc3ef.png' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/12661.html'>百多邦 莫匹罗星软..</a></p>      <p class='ls_tx_effect'>皮肤感染瘙痒皮炎湿..</p>      <p class='money'><em>￥</em><span>10.80</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/20406.html' title=' 华森 都梁软胶囊 0.54g*36粒'><img src='http://img.360kxr.com/product/2017/11/3dcfdf8bda9a4911984d26de7aaf7261.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/20406.html'> 华森 都梁软胶囊..</a></p>      <p class='ls_tx_effect'> 祛风散寒 活血通络</p>      <p class='money'><em>￥</em><span>39.90</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%A1%A5%E6%B0%94%E8%A1%A5%E8%A1%80' title='补气补血'>补气补血</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%9A%96%E5%AE%AB%E8%B0%83%E7%BB%8F' title='暖宫调经'>暖宫调经</a><a target='_blank' href='http://www.360kxr.com/category/291-0-2-1-15-1.html' title='宫颈糜烂'>宫颈糜烂</a><a target='_blank' href='http://www.360kxr.com/category/267-0-2-1-15-1.html' title='盆腔炎'>盆腔炎</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%98%B4%E9%81%93%E7%82%8E' title='阴道炎'>阴道炎</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E4%B9%8C%E9%B8%A1%E7%99%BD%E5%87%A4%E4%B8%B8' title='乌鸡白凤丸'>乌鸡白凤丸</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%89%BE%E9%99%84%E6%9A%96%E5%AE%AB%E4%B8%B8' title='艾附暖宫丸'>艾附暖宫丸</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%B6%88%E7%B3%9C%E6%A0%93' title='消糜栓'>消糜栓</a><a target='_blank' href='http://www.360kxr.com/product/28846.html' title='阿胶'>阿胶</a></div><div class='flo_name'><em class='f5'>5F</em><span>女性呵护</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/341-0-2-1-15-1.html' title='补气补血' style='width:97px'>补气补血</a><a target='_blank' href='http://www.360kxr.com/category/285-0-2-1-15-1.html' title='暖宫调经'>暖宫调经</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/263-0-2-1-15-1.html' title='炎症洗护' style='width:97px'>炎症洗护</a><a target='_blank' href='http://www.360kxr.com/category/291-0-2-1-15-1.html' title='宫颈糜烂'>宫颈糜烂</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/267-0-2-1-15-1.html' title='盆腔炎' style='width:97px'>盆腔炎</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%98%B4%E9%81%93%E7%82%8E' title='阴道炎'>阴道炎</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/918-0-2-1-15-1.html' title='乳腺疾病' style='width:97px'>乳腺疾病</a><a target='_blank' href='http://www.360kxr.com/category/285-0-2-1-15-1.html' title='调经养颜'>调经养颜</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/34159.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/80d2ef45c87b4fc28a1afa6f45c3d38f.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example7'><ul><li><a target='_blank' href='http://www.360kxr.com/product/7311.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/70b660b0b0124fef8623dc8ea9e5d3a1.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/8007.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/654e60aec7aa41fab8a2b9b23a2b4e4c.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/8007.html' title='达克宁 硝酸咪康唑栓 200mg*7枚'><img src='http://img.360kxr.com/product/2013/09/2f084224c27e49fba447e80de32bcded.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/8007.html'>达克宁 硝酸咪康唑..</a></p>      <p class='ls_tx_effect'>用于念珠菌性外阴阴..</p>      <p class='money'><em>￥</em><span>22.30</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/30583.html' title='千金 妇科千金片 108片*2盒'><img src='http://img.360kxr.com/product/2017/01/2397879590db4295b7191b7345020cf9.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/30583.html'>千金 妇科千金片 ..</a></p>      <p class='ls_tx_effect'>清热除湿，益气化瘀..</p>      <p class='money'><em>￥</em><span>58.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/34750.html' title='洁尔阴洗液 180ml'><img src='http://img.360kxr.com/product/2017/03/8d7210bdee3a48e98502f7c7a8f2f889.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/34750.html'>洁尔阴洗液 180..</a></p>      <p class='ls_tx_effect'>清热燥湿，杀虫止痒。</p>      <p class='money'><em>￥</em><span>18.20</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/product/12360.html' title='叶酸片'>叶酸片</a><a target='_blank' href='http://www.360kxr.com/category/414-0-2-1-15-1.html' title='儿童腹泻'>儿童腹泻</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%AD%95%E5%A6%87' title='孕期用药'>孕期用药</a><a target='_blank' href='http://www.360kxr.com/product/35465.html' title='AD维生素钙'>AD维生素钙</a><a target='_blank' href='http://www.360kxr.com/product/22037.html' title='孕期补钙'>孕期补钙</a><a target='_blank' href='http://www.360kxr.com/category/406-0-2-1-15-1.html' title='儿童感冒'>儿童感冒</a><a target='_blank' href='http://www.360kxr.com/category/1047-0-2-1-15-1.html' title='宝宝过敏'>宝宝过敏</a><a target='_blank' href='http://www.360kxr.com/product/19131.html' title='培菲康'>培菲康</a></div><div class='flo_name'><em class='f6'>6F</em><span>孕婴保健</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/676-0-2-1-15-1.html' title='叶酸片' style='width:97px'>叶酸片</a><a target='_blank' href='http://www.360kxr.com/category/676-0-2-1-15-1.html' title='孕期补钙'>孕期补钙</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/414-0-2-1-15-1.html' title='儿童腹泻' style='width:97px'>儿童腹泻</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%84%BF%E7%AB%A5%E6%84%9F%E5%86%92' title='儿童感冒'>儿童感冒</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/676-0-2-1-15-1.html' title='孕期用药' style='width:97px'>孕期用药</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%84%BF%E7%AB%A5%E8%BF%87%E6%95%8F' title='宝宝过敏'>宝宝过敏</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/444-0-2-1-15-1.html' title='AD维生素钙' style='width:97px'>AD维生素钙</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%9F%B9%E8%8F%B2%E5%BA%B7' title='培菲康'>培菲康</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/35485.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/f0229459499a4facaf469220cac4e2f1.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example8'><ul><li><a target='_blank' href='http://www.360kxr.com/product/12360.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/94fd948b9c294cf1a89e8c7fe75f3cec.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/12337.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/4c17b4b33eba4913a9ec43a6f055a9c2.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/12674.html' title='葵花小儿肺热咳喘口服液'><img src='http://img.360kxr.com/product/2013/05/8257450992b144cfafe5bc7a42c8e3e7.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/12674.html'>葵花小儿肺热咳喘口..</a></p>      <p class='ls_tx_effect'>消热解毒，宣肺化痰</p>      <p class='money'><em>￥</em><span>33.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/16971.html' title='葵花 小儿止咳糖浆 100ml'><img src='http://img.360kxr.com/product/2017/11/7a9858e58e5e45d09d432ebc34147ce4.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/16971.html'>葵花 小儿止咳糖浆..</a></p>      <p class='ls_tx_effect'>祛痰镇咳
+</p>      <p class='money'><em>￥</em><span>12.50</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/26968.html' title='伊可新 维生素AD滴剂[胶囊型]0-1岁 30粒*3盒'><img src='http://img.360kxr.com/product/2015/12/42eaa1c2e4bb49ee916d54d000a99cb8.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/26968.html'>伊可新 维生素AD..</a></p>      <p class='ls_tx_effect'>防佝偻病，促进婴儿..</p>      <p class='money'><em>￥</em><span>96.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/35485.html' title='金丐 醋酸钙颗粒 0.2g*24袋'><img src='http://img.360kxr.com/product/2017/11/a5bfa946ba5f47d4b4ffc7f6e7c03af3.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35485.html'>金丐 醋酸钙颗粒 ..</a></p>      <p class='ls_tx_effect'>用于预防和治疗钙缺..</p>      <p class='money'><em>￥</em><span>48.00</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/category/927-0-2-1-15-1.html' title='高血压'>高血压</a><a target='_blank' href='http://www.360kxr.com/category/482-0-2-1-15-1.html' title='中风'>中风</a><a target='_blank' href='http://www.360kxr.com/category/482-0-2-1-15-1.html' title='哮喘'>哮喘</a><a target='_blank' href='http://www.360kxr.com/category/228-0-2-1-15-1.html' title='银屑病'>银屑病</a><a target='_blank' href='http://www.360kxr.com/category/428-0-2-1-15-1.html' title='癫痫'>癫痫</a><a target='_blank' href='http://www.360kxr.com/category/430-0-2-1-15-1.html' title='帕金森'>帕金森</a><a target='_blank' href='http://www.360kxr.com/category/1020-0-2-1-15-1.html' title='神经损伤'>神经损伤</a><a target='_blank' href='http://www.360kxr.com/category/353-0-2-1-15-1.html' title='痛风'>痛风</a><a target='_blank' href='http://www.360kxr.com/category/266-0-2-1-15-1.html' title='更年期综合症'>更年期综合症</a><a target='_blank' href='http://www.360kxr.com/category/937-0-2-1-15-1.html' title='肿瘤用药'>肿瘤用药</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%B0%BF%E9%A2%91%E5%B0%BF%E6%80%A5' title='尿频尿急'>尿频尿急</a></div><div class='flo_name'><em class='f7'>7F</em><span>专科用药</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/927-0-2-1-15-1.html' title='三高病症' style='width:97px'>三高病症</a><a target='_blank' href='http://www.360kxr.com/category/502-0-2-1-15-1.html' title='糖尿病'>糖尿病</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/475-0-2-1-15-1.html' title='冠心病' style='width:97px'>冠心病</a><a target='_blank' href='http://www.360kxr.com/category/466-0-2-1-15-1.html' title='心脑血管'>心脑血管</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/977-0-2-1-15-1.html' title='肝炎' style='width:97px'>肝炎</a><a target='_blank' href='http://www.360kxr.com/category/994-0-2-1-15-1.html' title='胆结石'>胆结石</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/314-0-2-1-15-1.html' title='支气管炎' style='width:97px'>支气管炎</a><a target='_blank' href='http://www.360kxr.com/category/466-0-2-1-15-1.html' title='脑血栓'>脑血栓</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/16670.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/bc5771bb3c6d4b6f8927b396b9daa941.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example9'><ul><li><a target='_blank' href='http://www.360kxr.com/product/17990.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/43cb78a9d4e24017b4a398bd46024076.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/31307.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/dcc35e1163324e74a5d59892862a0261.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%9E%97%E8%88%88%E5%A0%82' title='林興堂'>林興堂</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%B1%87%E7%9C%9F%E5%A0%82' title='汇真堂'>汇真堂</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%A4%A7%E6%9E%A3' title='大枣'>大枣</a><a target='_blank' href='http://www.360kxr.com/product/35200.html' title='麦冬'>麦冬</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%81%B5%E8%8A%9D' title='灵芝'>灵芝</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%87%91%E9%93%B6%E8%8A%B1' title='金银花'>金银花</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%86%B3%E6%98%8E%E5%AD%90' title='决明子'>决明子</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%8C%89%E8%8E%89%E8%8A%B1' title='茉莉花'>茉莉花</a><a target='_blank' href='http://www.360kxr.com/product/35167.html' title='当归'>当归</a></div><div class='flo_name'><em class='f8'>8F</em><span>中药花茶</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E4%B8%89%E4%B8%83' title='三七' style='width:97px'>三七</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%81%B5%E8%8A%9D' title='灵芝'>灵芝</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E9%BB%84%E8%8A%AA' title='黄芪' style='width:97px'>黄芪</a><a target='_blank' href='' title='菊花'>菊花</a></li><li class='clearfix'><a target='_blank' href='' title='西洋参' style='width:97px'>西洋参</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%8F%8A%E8%8A%B1' title='金银花'>金银花</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%9E%97%E8%88%88%E5%A0%82' title='林興堂' style='width:97px'>林興堂</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%B1%87%E7%9C%9F%E5%A0%82' title='汇真堂'>汇真堂</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/34496.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/c11b0a8e3d114e6795cd42b3fb5ab27f.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example10'><ul><li><a target='_blank' href='http://www.360kxr.com/product/34955.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/2cca8eff3f2a47c79f873bfda30f9e71.jpg' alt='1' width='279px' height='265px'></a></li></ul><ol><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/35178.html' title='汇真堂 金银花 50g'><img src='http://img.360kxr.com/product/2017/08/62954a9e1cfc48f79a8fe1e5c05db986.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35178.html'>汇真堂 金银花 5..</a></p>      <p class='ls_tx_effect'>用于痈肿疔疮，喉痹..</p>      <p class='money'><em>￥</em><span>20.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/35198.html' title='汇真堂 西洋参 80g'><img src='http://img.360kxr.com/product/2017/08/70df4dfbf95f4a7db5ff52af6fd034fb.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35198.html'>汇真堂 西洋参 8..</a></p>      <p class='ls_tx_effect'>用于气虚阴亏，虚热..</p>      <p class='money'><em>￥</em><span>88.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/35638.html' title='康美 黄芪 150g'><img src='http://img.360kxr.com/product/2017/11/84f84efc273640d3b3bf137cd6bfa097.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35638.html'>康美 黄芪 150g</a></p>      <p class='ls_tx_effect'>　</p>      <p class='money'><em>￥</em><span>39.90</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/35847.html' title='草晶华 淫羊藿 1g*20袋'><img src='http://img.360kxr.com/product/2018/01/60af802574c847fc814e1835878f8388.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35847.html'>草晶华 淫羊藿 1..</a></p>      <p class='ls_tx_effect'>补肾阳，强筋骨，祛..</p>      <p class='money'><em>￥</em><span>102.00</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%9B%9B%E8%82%A2%E9%BA%BB%E6%9C%A8' title='四肢麻木'>四肢麻木</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E4%B8%8B%E8%82%A2%E7%96%BC%E7%97%9B' title='下肢疼痛'>下肢疼痛</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%85%B3%E8%8A%82%E8%82%BF%E7%97%9B' title='关节肿胀'>关节肿胀</a><a target='_blank' href='http://www.360kxr.com/category/352-0-2-1-15-1.html' title='骨质增生'>骨质增生</a><a target='_blank' href='http://www.360kxr.com/category/358-0-2-1-15-1.html' title='腰肌劳损'>腰肌劳损</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%85%B0%E6%A4%8E%E7%96%BC%E7%97%9B' title='腰椎疼痛'>腰椎疼痛</a><a target='_blank' href='http://www.360kxr.com/category/349-0-2-1-15-1.html' title='肌肉疼痛'>肌肉疼痛</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%85%B3%E8%8A%82%E7%82%8E' title='关节炎'>关节炎</a></div><div class='flo_name'><em class='f9'>9F</em><span>风湿骨外科</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/355-0-2-1-15-1.html' title='风湿关节炎' style='width:97px'>风湿关节炎</a><a target='_blank' href='http://www.360kxr.com/category/343-0-2-1-15-1.html' title='肌肉疼痛'>肌肉疼痛</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/343-0-2-1-15-1.html' title='关节肿胀' style='width:97px'>关节肿胀</a><a target='_blank' href='http://www.360kxr.com/category/343-0-2-1-15-1.html' title='腰椎疼痛'>腰椎疼痛</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/343-0-2-1-15-1.html' title='下肢疼痛' style='width:97px'>下肢疼痛</a><a target='_blank' href='http://www.360kxr.com/category/477-0-2-1-15-1.html' title='双肢麻木'>双肢麻木</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/352-0-2-1-15-1.html' title='骨质增生' style='width:97px'>骨质增生</a><a target='_blank' href='http://www.360kxr.com/category/358-0-2-1-15-1.html' title='腰肌劳损'>腰肌劳损</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/11603.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/6562b84718bb477391c037f1f1231005.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example11'><ul><li><a target='_blank' href='http://www.360kxr.com/product/34189.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/a6f7152eab724886a079c0f4456f1234.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/19570.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/96dd15c5469542ed9631fcecc48010b8.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/12598.html' title='999 正天丸 6g*10袋'><img src='http://img.360kxr.com/product/2016/03/fdcf5aa579fd456bb6d3261a9755093d.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/12598.html'>999 正天丸 6..</a></p>      <p class='ls_tx_effect'>疏风活血，养血平肝..</p>      <p class='money'><em>￥</em><span>17.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/33430.html' title='云南白药  云南白药酊 150ml '><img src='http://img.360kxr.com/product/2016/04/9524460182574abea8050397dca0db4b.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/33430.html'>云南白药  云南白..</a></p>      <p class='ls_tx_effect'> 活血散瘀，消肿止..</p>      <p class='money'><em>￥</em><span>53.90</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/34705.html' title='羚锐 关节止痛膏 10贴*10盒 '><img src='http://img.360kxr.com/product/2017/02/5758c501eac44909827f35eba25d65e1.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/34705.html'>羚锐 关节止痛膏 ..</a></p>      <p class='ls_tx_effect'>活血祛瘀 温经镇痛</p>      <p class='money'><em>￥</em><span>35.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/35466.html' title='撒隆巴斯 复方水杨酸甲酯薄荷醇贴剂 10贴'><img src='http://img.360kxr.com/product/2017/09/487a8550aba74eeab7053e76b738907b.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35466.html'>撒隆巴斯 复方水杨..</a></p>      <p class='ls_tx_effect'>用于缓解肌肉疲劳、..</p>      <p class='money'><em>￥</em><span>16.50</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/category/227-0-2-1-15-1.html' title='皮炎湿疹'>皮炎湿疹</a><a target='_blank' href='http://www.360kxr.com/product/34336.html' title='润眼液'>润眼液</a><a target='_blank' href='http://www.360kxr.com/category/1014-0-2-1-15-1.html' title='缓解视疲劳'>缓解视疲劳</a><a target='_blank' href='http://www.360kxr.com/category/983-0-2-1-15-1.html' title='过敏性鼻炎'>过敏性鼻炎</a><a target='_blank' href='http://www.360kxr.com/category/988-0-2-1-15-1.html' title='耳聋耳背'>耳聋耳背</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%92%BD%E5%96%89%E7%96%BC%E7%97%9B' title='咽喉疼痛'>咽喉疼痛</a><a target='_blank' href='http://www.360kxr.com/product/35284.html' title='口疮'>口疮</a><a target='_blank' href='http://www.360kxr.com/product/18687.html' title='疤痕修复'>疤痕修复</a></div><div class='flo_name'><em class='f10'>10F</em><span>五官皮肤用药</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/product/8248.html' title='麦粒肿' style='width:97px'>麦粒肿</a><a target='_blank' href='http://www.360kxr.com/category/998-0-2-1-15-1.html' title='眼干眼涩'>眼干眼涩</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/485-0-2-1-15-1.html' title='口腔溃疡' style='width:97px'>口腔溃疡</a><a target='_blank' href='http://www.360kxr.com/category/229-0-2-1-15-1.html' title='烧伤烫伤'>烧伤烫伤</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/product/35270.html' title='耳聋耳背' style='width:97px'>耳聋耳背</a><a target='_blank' href='http://www.360kxr.com/category/985-0-2-1-15-1.html' title='过敏鼻炎'>过敏鼻炎</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/905-0-2-1-15-1.html' title='疤痕修复' style='width:97px'>疤痕修复</a><a target='_blank' href='http://www.360kxr.com/category/327-0-2-1-15-1.html' title='清咽利喉'>清咽利喉</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/11955.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/e0beb785c9a448799d066c44a612a46e.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example12'><ul><li><a target='_blank' href='http://www.360kxr.com/product/35368.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/7d2b4cc287e84a9f99e6fca3ff56e10f.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/16667.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/a759b8192b094757b69a07eb46a07b76.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/31134.html' title='山香 山香圆片 0.5g*36片'><img src='http://img.360kxr.com/product/2014/12/d8c317e022844a8db9871eb449c70c62.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/31134.html'>山香 山香圆片 0..</a></p>      <p class='ls_tx_effect'>用于喉痹，乳娥，咽..</p>      <p class='money'><em>￥</em><span>16.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/35423.html' title='黄氏 黄氏响声丸(炭衣丸) 0.133g*72丸'><img src='http://img.360kxr.com/product/2017/09/616429f69b6c44728c7a5c052a7d56d8.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35423.html'>黄氏 黄氏响声丸(..</a></p>      <p class='ls_tx_effect'>咽喉肿痛</p>      <p class='money'><em>￥</em><span>15.80</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/product/14786.html' title='舒肝和胃'>舒肝和胃</a><a target='_blank' href='http://www.360kxr.com/category/378-0-2-1-15-1.html' title='消化不良'>消化不良</a><a target='_blank' href='http://www.360kxr.com/product/8720.html' title='反酸恶心'>反酸恶心</a><a target='_blank' href='http://www.360kxr.com/category/379-0-2-1-15-1.html' title='呕吐'>呕吐</a><a target='_blank' href='http://www.360kxr.com/category/387-0-2-1-15-1.html' title='急慢性腹泻'>急慢性腹泻</a><a target='_blank' href='http://www.360kxr.com/product/17249.html' title='腹胀'>腹胀</a><a target='_blank' href='http://www.360kxr.com/category/376-0-2-1-15-1.html' title='便秘'>便秘</a><a target='_blank' href='http://www.360kxr.com/category/386-0-2-1-15-1.html' title='急慢性胃炎'>急慢性胃炎</a></div><div class='flo_name'><em class='f11'>11F</em><span>肠胃消化</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%88%92%E8%82%9D%E5%92%8C%E8%83%83' title='舒肝和胃' style='width:97px'>舒肝和胃</a><a target='_blank' href='http://www.360kxr.com/category/387-0-2-1-15-1.html' title='急慢性腹泻'>急慢性腹泻</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/378-0-2-1-15-1.html' title='消化不良' style='width:97px'>消化不良</a><a target='_blank' href='http://www.360kxr.com/category/919-0-2-1-15-1.html' title='腹胀'>腹胀</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/379-0-2-1-15-1.html' title='反酸恶心' style='width:97px'>反酸恶心</a><a target='_blank' href='http://www.360kxr.com/category/376-0-2-1-15-1.html' title='便秘'>便秘</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/379-0-2-1-15-1.html' title='呕吐' style='width:97px'>呕吐</a><a target='_blank' href='http://www.360kxr.com/category/386-0-2-1-15-1.html' title='急慢性胃炎'>急慢性胃炎</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/28585.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2018/04/aae390ed4b3845caa93c9d897fb5524d.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example13'><ul><li><a target='_blank' href='http://www.360kxr.com/product/35354.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/294da4ed3f434c949dbadee5c802c0fc.jpg' alt='1' width='279px' height='265px'></a></li><li><a target='_blank' href='http://www.360kxr.com/product/11869.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/36a6a00f81a54c32ac9524a8f6c7b119.jpg' alt='2' width='279px' height='265px'></a></li></ul><ol><li></li><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/12512.html' title='同仁堂 麻仁润肠丸 6g*10丸'><img src='http://img.360kxr.com/product/2013/05/9744721b75e643bd96da82b714f11bc8.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/12512.html'>同仁堂 麻仁润肠丸..</a></p>      <p class='ls_tx_effect'>润肠通便。用于肠胃..</p>      <p class='money'><em>￥</em><span>13.50</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/14786.html' title='同仁堂 舒肝和胃丸 6g*10丸'><img src='http://img.360kxr.com/product/2017/11/cd3349848acf44eb80994abb52173e60.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/14786.html'>同仁堂 舒肝和胃丸..</a></p>      <p class='ls_tx_effect'>舒肝解郁肝胃不和和..</p>      <p class='money'><em>￥</em><span>8.50</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/27966.html' title='江中 健胃消食片（64片装） 0.8g*64片.'><img src='http://img.360kxr.com/product/2015/12/6f77adc09f11435db863c7b5a57772c7.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/27966.html'>江中 健胃消食片（..</a></p>      <p class='ls_tx_effect'>不思饮食、嗳腐酸臭..</p>      <p class='money'><em>￥</em><span>19.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/34749.html' title='肠炎宁片 0.42g*36片（效期至201906）'><img src='http://img.360kxr.com/product/2017/03/ea5f8857002343229e9355bb94849dff.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/34749.html'>肠炎宁片 0.42..</a></p>      <p class='ls_tx_effect'>用于急慢性胃肠炎</p>      <p class='money'><em>￥</em><span>8.50</span></p>   </div></div> </div></div></div><div class='section_floor clearfix'><div class='sec_flo_title clearfix'><div class='ill_name'><a target='_blank' href='http://www.360kxr.com/product/35554.html' title='罗氏'>罗氏</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%A1%80%E7%B3%96%E8%AF%95%E7%BA%B8' title='血糖试纸'>血糖试纸</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%B6%85%E8%96%84%E8%B6%85%E6%BB%91' title='超薄超滑'>超薄超滑</a><a target='_blank' href='http://www.360kxr.com/category/621-0-2-1-15-1.html' title='血糖仪'>血糖仪</a><a target='_blank' href='http://www.360kxr.com/category/1130-0-2-1-15-1.html' title='避孕套'>避孕套</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%86%88%E6%9C%AC' title='冈本'>冈本</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%9D%B0%E5%A3%AB%E9%82%A6' title='杰士邦'>杰士邦</a></div><div class='flo_name'><em class='f12'>12F</em><span>器械成人</span></div></div><div class='sec_flo_con clearfix'><div class='keyword_section'><div class='key_sc_name'><ul><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%BD%97%E6%B0%8F' title='罗氏' style='width:97px'>罗氏</a><a target='_blank' href='http://www.360kxr.com/category/621-0-2-1-15-1.html' title='血糖仪'>血糖仪</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/category/616-0-2-1-15-1.html' title='血糖试纸' style='width:97px'>血糖试纸</a><a target='_blank' href='http://www.360kxr.com/category/1130-0-2-1-15-1.html' title='避孕套'>避孕套</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E8%B6%85%E8%96%84%E8%B6%85%E6%BB%91' title='超薄超滑' style='width:97px'>超薄超滑</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E5%86%88%E6%9C%AC' title='冈本'>冈本</a></li><li class='clearfix'><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E7%AC%AC%E5%85%AD%E6%84%9F' title='第六感' style='width:97px'>第六感</a><a target='_blank' href='http://www.360kxr.com/Search_V2/?id=%E6%9D%B0%E5%A3%AB%E9%82%A6' title='杰士邦'>杰士邦</a></li></ul></div><div class='key_sc_pic'><a target='_blank' href='http://www.360kxr.com/product/35554.html'title='开心人大药房'><img src='http://img.360kxr.com/product/2017/10/f8dc54e52814475495df3c5b9f28bdc3.jpg' width='170px' height='155px'></a></div></div><div class='slide_section'><div class='example14'><ul><li><a target='_blank' href='http://www.360kxr.com/product/35343.html' title='开心人大药房'><img src='http://img.360kxr.com/product/2018/03/f93310f7e3d54889bd5f3314c0c5fd67.jpg' alt='1' width='279px' height='265px'></a></li></ul><ol><li></li></ol></div></div><div class='product_list'><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/9877.html' title='淑女 早孕试纸 HCG-A02/红*1人份.'><img src='http://img.360kxr.com/product/2018/02/26a75992c7364367b09fbdb52daa35fe.JPG' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/9877.html'>淑女 早孕试纸 H..</a></p>      <p class='ls_tx_effect'>用于早期妊娠的辅助..</p>      <p class='money'><em>￥</em><span>3.50</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/20150.html' title='冈本003黄金超薄贴身避孕套黄金10只'><img src='http://img.360kxr.com/product/2015/11/fec033dc5b0541ecba2ea4b94996257b.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/20150.html'>冈本003黄金超薄..</a></p>      <p class='ls_tx_effect'>让你充分体验性享受</p>      <p class='money'><em>￥</em><span>99.00</span></p>   </div></div><div class='pro_ls_con'>  <div class='list_pic'>    <a target='_blank' href='/product/35401.html' title='冈本 超润滑避孕套 10片'><img src='http://img.360kxr.com/product/2017/09/c142928bfe2b4732b21951e7cba7cf79.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35401.html'>冈本 超润滑避孕套..</a></p>      <p class='ls_tx_effect'>加倍润滑 分秒享受</p>      <p class='money'><em>￥</em><span>32.00</span></p>   </div></div><div class='pro_ls_con'  style='border-right:none;'>  <div class='list_pic'>    <a target='_blank' href='/product/35494.html' title='杰士邦 zero零感极薄极润避孕套'><img src='http://img.360kxr.com/product/2017/09/cabd0df040944a858e26a5eb6fd187c6.jpg' width='177px' height='177px'></a>    </div>   <div class='list_text'>      <p class='ls_tx_name'><a target='_blank' href='/product/35494.html'>杰士邦 zero零..</a></p>      <p class='ls_tx_effect'>超薄中的极薄极润</p>      <p class='money'><em>￥</em><span>55.60</span></p>   </div></div> </div></div></div>
+        <div class="brand_section">
+            <h2>
+                品牌旗舰店</h2>
+            
+        </div>
+        <div class="friend_tab">
+            <div id="tabbox_r">
+                <ul class="tabs_r" id="tabs_r">
+                    <li class="thistab"><a href=" ">友情链接</a></li>
+                    <li><a href=" ">重点推荐</a></li>
+                </ul>
+                <ul class="tab_conbox_r clearfix" id="tab_conbox_r">
+                    <li class="tab_con_r" style="display: list-item;">
+                        <p id="frindlink">
+                            <a target='_blank' href='http://www.sda.gov.cn/WS01/CL0001/' title='中国药监局'>中国药监局</a><a target='_blank' href='http://t.qq.com/kxr360' title='腾讯微博'>腾讯微博</a><a target='_blank' href='http://www.wiki8.com/' title='医学百科'>医学百科</a><a target='_blank' href='http://tag.120ask.com/' title='有问必答知识网'>有问必答知识网</a><a target='_blank' href='http://z.xywy.com/' title='寻医问药专家网'>寻医问药专家网</a><a target='_blank' href='http://yaopin.qqyy.com/' title='药品'>药品</a><a target='_blank' href='http://www.chinamsr.com' title='中国医药联盟'>中国医药联盟</a><a target='_blank' href='http://www.69jk.cn/' title='69健康'>69健康</a><a target='_blank' href='http://www.chemdrug.com/' title='药品资讯网'>药品资讯网</a><a target='_blank' href='http://zx.xywy.com/' title='整形美容'>整形美容</a><a target='_blank' href=' http://fz.58.com' title='福州分类信息'>福州分类信息</a>
+                        </p>
+                    </li>
+                    <li class="tab_con_r" style="display: none;">
+                        <p id="ZhongdianTuijian">
+                            <a target='_blank' href='http://www.360kxr.com/zhuanti/trt/' title='北京同仁堂'>北京同仁堂</a><a target='_blank' href='http://www.360kxr.com/zhuanti/ganmaoyao/' title='感冒药'>感冒药</a><a target='_blank' href='http://www.360kxr.com/zhuanti/zaoxie/' title='早泄'>早泄</a><a target='_blank' href='http://www.360kxr.com/zhuanti/nvxingbupin/' title='女性滋补品'>女性滋补品</a><a target='_blank' href='http://www.360kxr.com/zhuanti/shenxu/' title='男人肾虚的症状有哪些'>男人肾虚的症状有哪些</a><a target='_blank' href='http://www.360kxr.com/yaopin/1141.html' title='六味地黄丸'>六味地黄丸</a><a target='_blank' href='http://www.360kxr.com/product/14427.html' title='排毒养颜胶囊'>排毒养颜胶囊</a><a target='_blank' href='http://www.360kxr.com/yaopin/6396.html' title='冬虫夏草'>冬虫夏草</a><a target='_blank' href='http://www.360kxr.com/product/9869.html' title='排卵试纸'>排卵试纸</a><a target='_blank' href='http://www.360kxr.com/zhuanti/weibingtrt/' title='胃病的症状有哪些'>胃病的症状有哪些</a><a target='_blank' href='http://www.360kxr.com/product/7854.html' title='万艾可'>万艾可</a><a target='_blank' href='http://www.360kxr.com/zhuanti/qianliexianjb/' title='前列腺炎的危害'>前列腺炎的危害</a><a target='_blank' href='http://www.360kxr.com/zhuanti/tongrentangzhiyao/' title='同仁堂制药'>同仁堂制药</a><a target='_blank' href='http://www.360kxr.com/zhuanti/yghgc/' title='养肝护肝茶'>养肝护肝茶</a><a target='_blank' href='http://www.360kxr.com/zhuanti/ertonggmfs/' title='小孩感冒发烧怎么办'>小孩感冒发烧怎么办</a><a target='_blank' href='http://www.360kxr.com/zhuanti/duleisizhuanmai/' title='杜蕾斯官方旗舰店'>杜蕾斯官方旗舰店</a><a target='_blank' href='http://www.360kxr.com/product/28003.html' title='汇仁肾宝片'>汇仁肾宝片</a><a target='_blank' href='http://www.360kxr.com/zhuanti/fupaiej/' title='福牌阿胶'>福牌阿胶</a><a target='_blank' href='http://www.360kxr.com/product/14167.html' title='艾力达'>艾力达</a><a target='_blank' href='http://www.360kxr.com/yaopin/12528.html' title='爱卫试纸'>爱卫试纸</a><a target='_blank' href='http://www.360kxr.com/product/21062.html' title='鹿胎膏'>鹿胎膏</a><a target='_blank' href='http://www.360kxr.com/zhuanti/naifen/' title='伊利金领冠珍护奶粉'>伊利金领冠珍护奶粉</a><a target='_blank' href='http://www.360kxr.com/zhuanti/shimian/' title='失眠的症状有哪些'>失眠的症状有哪些</a><a target='_blank' href='http://www.360kxr.com/zhuanti/chuyouji/' title='健康出行清单'>健康出行清单</a><a target='_blank' href='http://www.360kxr.com/product/13246.html' title='片仔癀'>片仔癀</a><a target='_blank' href='http://www.360kxr.com/product/7669.html' title='同仁堂西黄丸'>同仁堂西黄丸</a><a target='_blank' href='http://www.360kxr.com/product/30692.html' title='血糖仪'>血糖仪</a><a target='_blank' href='http://www.360kxr.com/product/21972.html' title='伟素'>伟素</a><a target='_blank' href='http://www.360kxr.com/product/15125.html' title='启悦非那雄胺片'>启悦非那雄胺片</a><a target='_blank' href='http://www.360kxr.com/product/21899.html' title='拜瑞妥'>拜瑞妥</a><a target='_blank' href='http://www.360kxr.com/product/14493.html' title='帕夫林'>帕夫林</a><a target='_blank' href='http://www.360kxr.com/product/13413.html' title='晶珠孚舒达'>晶珠孚舒达</a><a target='_blank' href='http://www.360kxr.com/product/14615.htm' title='朗依'>朗依</a><a target='_blank' href='http://www.360kxr.com/product/11866.html' title='达力士软膏'>达力士软膏</a><a target='_blank' href='http://www.360kxr.com/product/18921.html' title='依托考昔片'>依托考昔片</a><a target='_blank' href='http://www.360kxr.com/yaopin/287.html' title='盐酸帕罗西汀片'>盐酸帕罗西汀片</a><a target='_blank' href='http://www.360kxr.com/product/20369.html' title='甲钴胺片'>甲钴胺片</a><a target='_blank' href='http://www.360kxr.com/zhuanti/shenbaojn/' title='肾宝胶囊'>肾宝胶囊</a><a target='_blank' href='http://www.360kxr.com/product/14379.html' title='倍他乐克'>倍他乐克</a><a target='_blank' href='http://www.360kxr.com/zhuanti/xiaili/' title='希爱力'>希爱力</a><a target='_blank' href='http://www.360kxr.com/zhuanti/kouzhao/' title='绿盾口罩'>绿盾口罩</a><a target='_blank' href='http://www.360kxr.com/product/11850.html' title='爱乐维'>爱乐维</a><a target='_blank' href='http://www.360kxr.com/product/22285.html' title='蒙王肉蔻五味丸'>蒙王肉蔻五味丸</a><a target='_blank' href='http://www.360kxr.com/product/18596.html' title='百洛特'>百洛特</a><a target='_blank' href='http://www.360kxr.com/yaopin/2728.html' title='盐酸普拉克索片'>盐酸普拉克索片</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="total_sina">
+        <div class="sina_wrap clearfix">
+            <div class="sw_messa">
+                <dl class="clearfix">
+                    <dt>
+                        <h2>
+                            官方微信</h2><br /><a href="http://www.360kxr.com/Content/NewIndexV5/tubiao/erweim.jpg" target="_blank">
+                        <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/erweim.jpg"></a>
+                        <dt><h2>
+                            手机药店</h2><br /><a href="http://www.360kxr.com/Content/NewIndexV5/tubiao/wap2.png" target="_blank">
+                        <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/wap2.png"></a></dt>
+                        </dt>
+
+                </dl>
+                <div>
+                    <p class="clearfix">
+                        <span>新浪微博</span><a target="_blank" href="http://weibo.com/360kxrcom">立即关注</a></p>
+                </div>
+            </div>
+            <div class="new_show">
+                <dl>
+                    <dt>新手指南</dt>
+                    <dd>
+                        <a title="免费注册" target="_blank" href="/help/detail/28.html">免费注册</a></dd>
+                    <dd>
+                        <a title="购物流程" target="_blank" href="/help/detail/27.html">购物流程</a></dd>
+                    <dd>
+                        <a title="支付安全" target="_blank" href="/help/detail/67.html">支付安全</a></dd>
+                    <dd>
+                        <a title="安全购药" target="_blank" href="/help/detail/29.html">安全购药</a></dd>
+                </dl>
+                <dl>
+                    <dt>购买及支付相关</dt>
+                    <dd>
+                        <a title="支付方式" target="_blank" href="/help/detail/76.html">支付方式</a></dd>
+                    <dd>
+                        <a title="发票" target="_blank" href="/help/detail/78.html">发票</a></dd>
+                    <dd>
+                        <a title="退款" target="_blank" href="/help/detail/77.html">退款</a></dd>
+                </dl>
+                <dl>
+                    <dt>配送相关</dt>
+                    <dd>
+                        <a title="配送方式" target="_blank" href="/help/detail/80.html">配送方式</a></dd>
+                    <dd>
+                        <a title="配送费用" target="_blank" href="/help/detail/2864.html">配送费用</a></dd>
+                    <dd>
+                        <a title="配送地区" target="_blank" href="/help/detail/86.html">配送地区</a></dd>
+                    <dd>
+                        <a title="库房展示" target="_blank" href="/help/detail/162.html">库房展示</a></dd>
+                </dl>
+                <dl>
+                    <dt>售后相关</dt>
+                    <dd>
+                        <a title="退换货政策" target="_blank" href="/help/detail/85.html">退换货政策</a></dd>
+                    <dd>
+                        <a title="如何退换货" target="_blank" href="/help/detail/84.html">如何退换货</a></dd>
+                    <dd>
+                        <a title="发票/票据" target="_blank" href="/help/detail/83.html">发票/票据</a></dd>
+                </dl>
+                <dl style="margin-right: 0">
+                    <dt>会员相关/其他</dt>
+                    <dd>
+                        <a title="会员等级" target="_blank" href="/help/detail/87.html">会员等级</a></dd>
+                    <dd>
+                        <a title="会员积分" target="_blank" href="/help/detail/88.html">会员积分</a></dd>
+                    <dd>
+                        <a title="投诉与建议" target="_blank" href="/help/detail/89.html">投诉与建议</a></dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+    <div class="about_us">
+        <div class="ab_con">
+            <p>
+                <a target="_blank" title="开心人介绍" href="http://www.360kxr.com/aboutus/101.html">开心人介绍</a><a target="_blank" title="城市分布"
+                    href="http://www.360kxr.com/aboutus/126.html">城市分布</a><a target="_blank" title="联系我们" href="http://www.360kxr.com/aboutus/2859.html">
+                        联系我们</a><a target="_blank" title="加入我们" href="http://www.360kxr.com/aboutus/550.html?class=71&amp;class1=98">
+                            加入我们</a><a target="_blank" title="网站资质" href="http://www.360kxr.com/aboutus/qualification/105.html">
+                                网站资质</a><a target="_blank" title="友情链接" href="http://www.360kxr.com/aboutus/104.html">友情链接</a><a target="_blank"
+                                    href="http://www.360kxr.com/sitemap/index1">网站地图</a><a target="_blank" title="商品地图" href="http://www.360kxr.com/product/productmap.html">
+                                        商品地图</a><a href="#" onclick="ShowTaker('网站底部','在线客服');;" looyu_bound="1" rel="nofollow">在线客服</a><a target="_blank" href="http://www.360kxr.com/MemberAction/Register.aspx">
+                                            免费注册</a><a target="_blank" href="/qiye/">企业目录</a></p>
+            <p class="line2">
+                <span>按字母索引商品:</span> <a target="_blank" href="/product/tags?zimu=A" looyu_bound="1">A</a> <a target="_blank" href="/product/tags?zimu=B"
+                    looyu_bound="1">B</a> <a target="_blank" href="/product/tags?zimu=C" looyu_bound="1">C</a> <a target="_blank" href="/product/tags?zimu=D"
+                        looyu_bound="1">D</a> <a target="_blank" href="/product/tags?zimu=E" looyu_bound="1">E</a>
+                <a target="_blank" href="/product/tags?zimu=F" looyu_bound="1">F</a> <a target="_blank" href="/product/tags?zimu=G"
+                    looyu_bound="1">G</a> <a target="_blank" href="/product/tags?zimu=H" looyu_bound="1">H</a> <a target="_blank" href="/product/tags?zimu=I"
+                        looyu_bound="1">I</a> <a target="_blank" href="/product/tags?zimu=J" looyu_bound="1">J</a>
+                <a target="_blank" href="/product/tags?zimu=K" looyu_bound="1">K</a> <a target="_blank" href="/product/tags?zimu=L"
+                    looyu_bound="1">L</a> <a target="_blank" href="/product/tags?zimu=M" looyu_bound="1">M</a> <a target="_blank" href="/product/tags?zimu=N"
+                        looyu_bound="1">N</a> <a target="_blank" href="/product/tags?zimu=O" looyu_bound="1">O</a>
+                <a target="_blank" href="/product/tags?zimu=P" looyu_bound="1">P</a> <a target="_blank" href="/product/tags?zimu=Q"
+                    looyu_bound="1">Q</a> <a target="_blank" href="/product/tags?zimu=R" looyu_bound="1">R</a> <a target="_blank" href="/product/tags?zimu=S"
+                        looyu_bound="1">S</a> <a target="_blank" href="/product/tags?zimu=T" looyu_bound="1">T</a>
+                <a target="_blank" href="/product/tags?zimu=U" looyu_bound="1">U</a> <a target="_blank" href="/product/tags?zimu=V"
+                    looyu_bound="1">V</a> <a target="_blank" href="/product/tags?zimu=W" looyu_bound="1">W</a> <a target="_blank" href="/product/tags?zimu=X"
+                        looyu_bound="1">X</a> <a target="_blank" href="/product/tags?zimu=Y" looyu_bound="1">Y</a>
+                <a target="_blank" href="/product/tags?zimu=Z" looyu_bound="1">Z</a></p>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="foot_con">
+            <p class="line_1">
+                <a title="互联网药品交易服务资格证书" target="_blank" href="http://www.360kxr.com/aboutus/qualification/105.html"
+                    looyu_bound="1">互联网药品交易服务资格证书</a> <a title="互联网药品交易服务资格证书" target="_blank" href="http://www.360kxr.com/aboutus/qualification/106.html"
+                        looyu_bound="1">互联网药品信息服务资格证书</a> <a title="增值电信业务经营许可证" target="_blank" href="http://www.360kxr.com/aboutus/qualification/189.html"
+                            looyu_bound="1">增值电信业务经营许可证</a> <a title="药品经营许可证" target="_blank" href="http://www.360kxr.com/aboutus/qualification/108.html"
+                                looyu_bound="1">药品经营许可证</a> <a title="医疗器械经营企业许可证" target="_blank" href="http://www.360kxr.com/aboutus/qualification/109.html"
+                                    looyu_bound="1">医疗器械经营企业许可证</a> <a title="互联网药品交易服务资格证书" target="_blank" href="http://www.360kxr.com/aboutus/qualification/110.html"
+                                        looyu_bound="1">食品卫生许可证</a> <a title="公司营业执照" target="_blank" href="http://www.360kxr.com/aboutus/qualification/111.html"
+                                            looyu_bound="1">公司营业执照</a> <a title="GSP认证证书" target="_blank" href="http://www.360kxr.com/aboutus/qualification/113.html"
+                                                looyu_bound="1">GSP认证证书</a>
+            </p>
+            <p class="line_2">
+                <span class="copy">Copyright &copy;2010-2015</span><a href="">开心人网上药店(www.360kxr.com)</a><span>赣ICP证B2--20090025-2号</span>
+				
+				  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36011102000116">
+					<img src="http://www.360kxr.com/images/备案图标.png" style="vertical-align: middle;"/>
+					<span style="color:#939393;">赣公网安备 36011102000116号</span>
+				  </a>
+				
+				<br /><br />
+                <span>江西开心人大药房连锁有限公司</span>&nbsp;&nbsp;<span></span>&nbsp;&nbsp;<span>联系地址：江西省南昌市青山湖区民营科技园内高新大道918号</span></p>
+            <ul class="clearfix">
+                <li style="padding-right: 27px"><a href="https://online.unionpay.com/portal/index.do?username="
+                    target="_blank" title="中国银联-中银E付" looyu_bound="1">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/bank.jpg"></a></li>
+                <li><a href="#"
+                    title="经营性网站备案信息" looyu_bound="1">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/ic.jpg"></a></li>
+                <li><a href=" http://www.bj.cyberpolice.cn" target="_blank" title="网络110报警服务"
+                    looyu_bound="1">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/poli.jpg"></a></li>
+                <li><a title="网络110报警服务" target="_blank" href=" http://www.bj.cyberpolice.cn/index.htm"
+                    looyu_bound="1">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/bao.jpg"></a></li>
+                <li><a href="http://www.360kxr.com/help/detail/80.html" target="_blank" title="健康速递隐私配送"
+                    looyu_bound="1">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/yin.jpg"></a></li>
+                <li><a title="健康速递隐私配送" target="_blank" href="http://www.360kxr.com/help/detail/80.html"
+                    looyu_bound="1">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/health.jpg"></a></li>
+                <li><a href="/notice/detail/198.html" target="_blank" title="诚信品牌100强" looyu_bound="1">
+                    <img src="http://www.360kxr.com/Content/NewIndexV5/tubiao/yibai.jpg"></a></li>
+            </ul>
+        </div>
+    </div>
+    
+    <!-- 跟踪代码开始 -->
+    <script type="text/javascript" language="javascript1.1">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-15765481-1']);
+        _gaq.push(['_setDomainName', '.360kxr.com']);
+        _gaq.push(['_addOrganic', 'baidu', 'word']);
+        _gaq.push(['_addOrganic', 'baidu', 'q1']);
+        _gaq.push(['_addOrganic', 'soso', 'w']);
+        _gaq.push(['_addOrganic', 'yodao', 'q']);
+        _gaq.push(['_addOrganic', 'sogou', 'query']);
+        _gaq.push(['_addOrganic', 'so.com', 'q']);
+        _gaq.push(['_addOrganic', '360', 'q']);
+        _gaq.push(['_trackPageview']);
+    </script>
+    <script type="text/javascript">
+        var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe0598337ea3c84b150a9c23898cf9fbe' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?25be7f863c8455a50b95e7d541d4442a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    <!-- Google Code for &#25152;&#26377;&#39029;&#38754; Remarketing List -->
+    <script type="text/javascript">
+  /* <![CDATA[ */
+var google_conversion_id = 1006129378;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "HPLUCOaw-QEQ4qHh3wM";
+var google_conversion_value = 0;
+/* ]]> */
+    </script>    
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js" async="async">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1006129378/?label=HPLUCOaw-QEQ4qHh3wM&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+    <div style="display: none;">
+        <script type="text/javascript">
+            var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F25be7f863c8455a50b95e7d541d4442a' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe0598337ea3c84b150a9c23898cf9fbe' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9e78f4721eecdbc1fd1d3ae2290b7d9e' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+    </div>
+    <!-- Start LK Wise Attribution System Tracker-->
+    <script type="text/javascript">
+//<![CDATA[
+        var lk_cmds = [];
+        lk_cmds.push(['setSiteId', 'F973J6YZ']);
+        lk_cmds.push(['trackPageView']);
+        (function () {
+            var _lk = document.createElement('script'); _lk.type = 'text/javascript'; _lk.async = true;
+            _lk.src = 'http://www.zikker.com/lk_t_compress.js';
+            var _lk_s = document.getElementsByTagName('script')[0]; _lk_s.parentNode.insertBefore(_lk, _lk_s);
+        } ());
+//]]>
+    </script>
+    <!-- End LK Wise Attribution System Code -->
+    <!-- 跟踪代码结束 -->
+    <div class="insider_box" style="right: 0px">
+        <ul>
+            <li class="phone"><a href="javascript:" onclick="ShowTaker('商品页售前','在线客服')">客服</a></li>
+            <li class="sever"><a href="javascript:" onclick="ShowAfterTaker('商品页售后','在线客服')">售后</a></li>
+            <li class="qrcode"><em>健康扫一扫</em></li>
+            <li class="wapqrcode"><em>手机药店</em></li>
+        </ul>
+        <div class="inreturntop" style="display: block;">
+            <a id="inreturntop" href="javascript:;">返回顶部</a>
+        </div>
+    </div>
+   <!-- <div id="test" style="z-index:-9999;position:absolute;top:150px;background:url(http://img.360kxr.com/news/index/bigbg.png) no-repeat center top;height:630px;width:100%;"></div>
+ <script type="text/ecmascript">
+  $(document).ready(function(){  
+        var menuYloc = $("#test").offset().top;  
+        $(window).scroll(function (){  
+            var offsetTop = menuYloc + $(window).scrollTop() +"px";  
+            $("#test").animate({top : offsetTop },{ duration:300 , queue:false });  
+        });  
+    }); 
+</script>-->
+
+
+<!--蓝芯-->
+<!-- Start LK Wise Attribution System Tracker -->
+<script type="text/javascript">
+//<![CDATA[
+    var lk_cmds = [];
+    lk_cmds.push(['setSiteId', 'F973J6YZ']);
+    lk_cmds.push(['trackPageView']);
+    (function () {
+        var _lk = document.createElement('script'); _lk.type = 'text/javascript'; _lk.async = true;
+        _lk.src = 'http://www.zikker.com/lk_t_compress.js';
+        var _lk_s = document.getElementsByTagName('script')[0]; _lk_s.parentNode.insertBefore(_lk, _lk_s);
+    } ());
+//]]>
+</script>
+<!-- End LK Wise Attribution System Code -->
+<!--蓝芯end-->
+</body>
+<script src="http://www.360kxr.com/Content/NewIndexV5/js/searchLike.js" type="text/javascript"></script>
+    <script src="http://www.360kxr.com/Content/NewIndexV5/js/Head_JS_V1.js" type="text/javascript"></script>
+</html>
