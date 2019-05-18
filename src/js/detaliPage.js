@@ -1,11 +1,76 @@
 (function(){
-    $('.header').load('head.html');
+    $('.header').load('head.html',function(){
+        $.ajax({
+            type:'get',
+            url:'../api/change.php',
+            async:true,
+            data:'name='+username,
+            success:function(str){
+                $('#gwc').html('('+str+')');
+            }
+           })
+        $('.close').click(function(){
+            window.open('shop.html');
+        })
+        function panduan(){
+            var uid = getCookie('uid');
+            var username = getCookie('username');
+            if(uid){
+                console.log(uid);
+                $('.header').find('.dengl').css('display','none');
+                $('.header').find('.zhuce').css('display','none');
+                $('.header').find('.info').html(username);
+                $('.header').find('.tuichu').css('display','block');
+               
+            }else{
+                $('.header').find('.dengl').css('display','block')
+                $('.header').find('.zhuce').css('display','block')
+                $('.header').find('.info').html('');
+                $('.header').find('.tuichu').css('display','none');
+            }
+        }
+        panduan();
+        $('.tuichu').click(function(){
+            $.ajax({
+                type: 'post',
+                url: '../guestbook/index.php',
+                async: true,
+                data: 'm=index&a=logout',
+                success: function (str) {
+                    var arr = JSON.parse(str);
+                    alert(arr.message);
+                    panduan();
+                }
+            })
+        })
+    });
     $('.footer').load('footer.html');
+    
+    //回到顶部
+    $(window).scroll(function () {
+        var ih = window.scrollY;//滚动距离
+        console.log(ih);
+        if (ih >= 300) {
+            $('.go_To_Top').fadeIn();
+        } else {
+            $('.go_To_Top').fadeOut();
+        }
+    })
+    $('.go_To_Top').click(function () {
+        var ih = window.scrollY;//滚动距离
+        var timer = setInterval(function () {
+            ih -= 30;//速度
+            if (ih <= 0) {
+                clearInterval(timer);
+                window.scrollTo(0, 0);
+            } else {
+                window.scrollTo(0, ih);
+            }
+        }, 30)
+    })
     //放大镜
     var data = decodeURI(location.search);
-    console.log(data);
     var id = data.slice(1);
-    console.log(id);
     $.ajax({
         type:'get',
         url:'../api/detaliPage.php',
@@ -122,13 +187,14 @@
 
     //点击按钮的时候加入购物车页
     var uid = getCookie('uid');
+    var username = getCookie('username');
     $('.main2_r_t_r').on('click','.shop',function(){
+  console.log($("#gwc"));
         var Sname = $(this).prev().prev().prev().children(':first').html().slice(5);
         var uid =$(this).prev().data('id');
         var Uname = getCookie('username');
         var price = $(this).prev().find('.active_1').html().slice(1);
         var num = $(this).prev().find('#tex').val();
-        console.log(Sname);
        if(uid){
            $.ajax({
                type:'get',
@@ -143,12 +209,14 @@
                    num : num,
                },
                success: function(str){
-                   $.ajax({
+                
+                $.ajax({
                     type:'get',
                     url:'../api/change.php',
+                    data:'name='+username,
                     async:true,
                     success:function(str){
-                        
+                        $('#gwc').html('('+str+')');
                     }
                    })
                }

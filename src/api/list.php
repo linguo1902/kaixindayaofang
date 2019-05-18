@@ -5,7 +5,7 @@
     $sql ="SELECT * FROM shangping LIMIT 0,4;";
     //运行
     $res = $conn->query($sql);
-    var_dump($res);
+    // var_dump($res);
     $content = $res->fetch_all(MYSQLI_ASSOC);
     echo json_encode($content);
 ?>

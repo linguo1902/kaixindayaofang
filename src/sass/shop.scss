@@ -10,15 +10,24 @@
             width: 952px;
             margin: 0 auto;
             clear: both;
-            .login{
+            .login-box{
                 height: 100%;
-                line-height: 29px;
                 float: left;
-                color: #f67319;
+                .login{
+                    height: 100%;
+                    line-height: 29px;
+                    float: left;
+                    color: #f67319;
+                   
+                }
                 a{
+                    line-height: 29px;
+                    float: left;
+                    margin-right: 3px;
                     color: #dd0119;
                 }
             }
+           
             .nav-top{
                 float: right;
                 height: 100%;
@@ -162,23 +171,28 @@
                 .sp-list{
                     li{
                         height: 80px;
-                        line-height: 80px;
                         border-bottom: 1px solid #fad5d8;
+                        position: relative;
                         .sp-id{
-                            float: left;
-                            padding:0 45px;
+                            position: absolute;
+                            top: 35px;
+                            left: 40px;
                         }
                         .sp-name{
-                            float: left;
-                            margin-left: 120px;
+                            position: absolute;
+                           top: 35px;
+                           left: 220px;
                         }
                         .sp-price{
-                            float: left;
-                            margin-left: 130px;
+                            position: absolute;
+                            top: 35px;
+                            left: 400px;
                         }
                         .sp-num{
-                            float: left;
-                            margin-left: 40px;
+                            position: absolute;
+                            top: 30px;
+                            right:200px ;
+                            
                             .reduce{
                                 line-height: 15px;
                                 display: inline-block;
@@ -207,12 +221,14 @@
                             
                         }
                         .sp-xj{
-                            float: left;
-                            margin-left: 40px;
+                            position: absolute;
+                            top: 35px;
+                            right: 125px;
                         }
                         .sp-caozuo{
-                            float: left;
-                            margin-left: 62px;
+                            position: absolute;
+                            top: 35px;
+                            right: 40px;
                         }
                     }
                 }
@@ -268,6 +284,17 @@
                             color: #ff0000;
                         }
                     }
+                }
+                .no-shop{
+                    display: none;
+                    height: 200px;
+                    width: 100%;
+                    h2{
+                        line-height: 200px;
+                        text-align: center;
+                        font-size: 22px;
+                    }
+
                 }
             .continueShopping{
                 height: 85px;

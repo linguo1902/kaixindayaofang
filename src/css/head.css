@@ -29,13 +29,17 @@ position: relative;
     line-height: 26px;
     color: #fff;
   }
-   .header .head_nav .login-info span {
+   .header .head_nav .login-info #login {
+    float: left;
+    margin-right: 5px;
     margin-left: 40px;
   }
-   .header .head_nav .login-info span a {
+   .header .head_nav .login-info  a {
+     float: left;
     color: #fff;
+    margin-right: 3px;
   }
-   .header .head_nav .login-info span a:hover {
+   .header .head_nav .login-info a:hover {
     color: red;
   }
    .header .head_nav .service {

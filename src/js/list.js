@@ -1,6 +1,51 @@
 (function(){
-    $('.header').load('head.html');
+    $('.header').load('head.html',function(){
+        var username = getCookie('username');
+        $.ajax({
+            type:'get',
+            url:'../api/change.php',
+            async:true,
+            data:'name='+username,
+            success:function(str){
+                $('#gwc').html('('+str+')');
+            }
+           })
+           var username = getCookie('username');
+ // 判断面板
+ function panduan(){
+    var uid = getCookie('uid');
+    var username = getCookie('username');
+    if(uid){
+        console.log(uid);
+        $('.header').find('.dengl').css('display','none');
+        $('.header').find('.zhuce').css('display','none');
+        $('.header').find('.info').html(username);
+        $('.header').find('.tuichu').css('display','block');
+       
+    }else{
+        $('.header').find('.dengl').css('display','block')
+        $('.header').find('.zhuce').css('display','block')
+        $('.header').find('.info').html('');
+        $('.header').find('.tuichu').css('display','none');
+    }
+}
+panduan();
+$('.tuichu').click(function(){
+    $.ajax({
+        type: 'post',
+        url: '../guestbook/index.php',
+        async: true,
+        data: 'm=index&a=logout',
+        success: function (str) {
+            var arr = JSON.parse(str);
+            alert(arr.message);
+            panduan();
+        }
+    })
+})
+    });
     $('.footer').load('footer.html');
+     
     //发送请求做数据渲染
     let ipage = 1;//当前页
     let num = 15;//每页多少条

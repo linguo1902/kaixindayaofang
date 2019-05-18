@@ -30,7 +30,13 @@
     line-height: 26px;
     color: #999999;
 }
+.login-info #login{
+    float: left;
+    margin-right: 5px;
+}
 .login-info a{
+    float: left;
+    margin-right: 3px;
     color: #999999;
 }
 .login-info a:hover{

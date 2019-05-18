@@ -4,6 +4,79 @@
   height: 100%;
   position: relative;
 }
+#detaliPage .sidebar {
+  width: 78px;
+  border: 1px solid #d2d2d2;
+  position: fixed;
+  z-index: 10000;
+  background: #fff;
+  top: 140px;
+  right: 31px;
+}
+#detaliPage .sidebar ul li {
+  list-style: none;
+  font: normal 12px/18px "SimSun",Arial,"Microsoft Yahei";
+  text-align: center;
+  border-top: 1px solid #d2d2d2;
+  margin-top: -1px;
+  color: #686868;
+  height: 80px;
+  zoom: 1;
+}
+#detaliPage .sidebar .phone {
+  background: url(../images/insiderico.png) no-repeat;
+}
+#detaliPage .sidebar .phone:hover {
+  background-position: -80px 0;
+}
+#detaliPage .sidebar .sever {
+  background: url(../images/insiderico.png) no-repeat;
+  background-position: -160px 0;
+}
+#detaliPage .sidebar .sever:hover {
+  background-position: -240px 0;
+}
+#detaliPage .sidebar .qrcode {
+  height: 102px;
+  background: url(../images/insiderico.png) no-repeat;
+  background-position: -320px 0;
+}
+#detaliPage .sidebar .wapqrcode {
+  height: 102px;
+  background: url(../images/insiderico2.jpg) no-repeat;
+}
+#detaliPage .sidebar ul li a {
+  text-decoration: none;
+  display: inline-block;
+  color: #686868;
+  display: block;
+  height: 80px;
+  padding-top: 60px;
+}
+#detaliPage .sidebar ul li i {
+  font-style: normal;
+  display: block;
+  height: 80px;
+  padding-top: 80px;
+}
+#detaliPage .sidebar .sidebar .go_To_Top {
+  display: none;
+  height: 50px;
+  font: normal 12px/17px "SimSun",Arial,"Microsoft Yahei";
+  border-top: 1px solid #d2d2d2;
+  margin-top: -1px;
+  overflow: hidden;
+  zoom: 1;
+}
+#detaliPage .sidebar .go_To_Top p {
+  cursor: pointer;
+  display: block;
+  height: 30px;
+  background: url(../images/insiderico.png) -400px 0 no-repeat;
+  color: #686868;
+  text-align: center;
+  padding-top: 30px;
+}
 #detaliPage .main {
   width: 1020px;
   height: 1000px;

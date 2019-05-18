@@ -4,6 +4,7 @@
     $Sname = isset($_GET['Sname'])?$_GET['Sname']:'';
     $price = isset($_GET['price'])?$_GET['price']:'';
     $num = isset($_GET['num'])?$_GET['num']:'';
+
     include 'conn.php';
     // echo $price;
     $sql ="SELECT * FROM dingdan WHERE uid='$uid' AND Uname='$Uname'";

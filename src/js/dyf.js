@@ -5,16 +5,32 @@ $(function () {
         var username = getCookie('username');
         if(uid){
             console.log(uid);
-            $('.header').find('.dengl').html(username);
-            $('.header').find('.zhuce').html('退出')
+            $('.header').find('.dengl').css('display','none');
+            $('.header').find('.zhuce').css('display','none');
+            $('.header').find('.info').html(username);
+            $('.header').find('.tuichu').css('display','block');
            
         }else{
-            $('.header').find('.dengl').html('请登录');
-            $('.header').find('.zhuce').html('免费注册')
-           ;
+            $('.header').find('.dengl').css('display','block')
+            $('.header').find('.zhuce').css('display','block')
+            $('.header').find('.info').html('');
+            $('.header').find('.tuichu').css('display','none');
         }
     }
     panduan();
+    $('.tuichu').click(function(){
+        $.ajax({
+            type: 'post',
+            url: './guestbook/index.php',
+            async: true,
+            data: 'm=index&a=logout',
+            success: function (str) {
+                var arr = JSON.parse(str);
+                alert(arr.message);
+                panduan();
+            }
+        })
+    })
     console.log(panduan())
     //划过购物车显示购物车导航
     $('.shopping-trolley').hover(function () {
@@ -205,7 +221,7 @@ $(function () {
         url: 'api/list.php',
         async: true,
         success: function (str) {
-         
+            console.log(str);
             var arr = JSON.parse(str);
             console.log(arr);
             var res =arr.map(function(item){

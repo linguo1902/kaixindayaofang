@@ -1,8 +1,19 @@
 
 (function(){
-    $('.header').load('head.html');
+    $('.header').load('head.html',function(){
+        $.ajax({
+            type:'get',
+            url:'../api/change.php',
+            async:true,
+            data:'name='+username,
+            success:function(str){
+                $('#gwc').html('('+str+')');
+            }
+           })
+    });
     $('.footer').load('footer.html');
 })();
+
 //登录
 (function(){
     $('.btn').click(function(){
@@ -25,15 +36,19 @@
             var username = getCookie('username');
             if(uid){
                 console.log(uid);
-                $('.header').find('.dengl').html(username);
-                $('.header').find('.zhuce').html('退出')
+                $('.header').find('.dengl').css('display','none');
+                $('.header').find('.zhuce').css('display','none');
+                $('.header').find('.info').html(username);
+                $('.header').find('.tuichu').css('display','block');
                
             }else{
-                $('.header').find('.dengl').html('请登录');
-                $('.header').find('.zhuce').html('免费注册')
-               ;
+                $('.header').find('.dengl').css('display','block')
+                $('.header').find('.zhuce').css('display','block')
+                $('.header').find('.info').html('');
+                $('.header').find('.tuichu').css('display','none');
             }
         }
+        panduan();
         // 退出
         $('.header').on('click','.zhuce',function(){
             $.ajax({

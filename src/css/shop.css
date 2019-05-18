@@ -13,13 +13,20 @@
   margin: 0 auto;
   clear: both;
 }
-#shop .header .header-box .login {
+#shop .header .header-box .login-box {
+  height: 100%;
+  float: left;
+}
+#shop .header .header-box .login-box .login {
   height: 100%;
   line-height: 29px;
   float: left;
   color: #f67319;
 }
-#shop .header .header-box .login a {
+#shop .header .header-box .login-box a {
+  line-height: 29px;
+  float: left;
+  margin-right: 3px;
   color: #dd0119;
 }
 #shop .header .header-box .nav-top {
@@ -163,24 +170,28 @@
 }
 #shop .main .gwc_box .contianer .sp-list li {
   height: 80px;
-  line-height: 80px;
   border-bottom: 1px solid #fad5d8;
+  position: relative;
 }
 #shop .main .gwc_box .contianer .sp-list li .sp-id {
-  float: left;
-  padding: 0 45px;
+  position: absolute;
+  top: 35px;
+  left: 40px;
 }
 #shop .main .gwc_box .contianer .sp-list li .sp-name {
-  float: left;
-  margin-left: 120px;
+  position: absolute;
+  top: 35px;
+  left: 220px;
 }
 #shop .main .gwc_box .contianer .sp-list li .sp-price {
-  float: left;
-  margin-left: 130px;
+  position: absolute;
+  top: 35px;
+  left: 400px;
 }
 #shop .main .gwc_box .contianer .sp-list li .sp-num {
-  float: left;
-  margin-left: 40px;
+  position: absolute;
+  top: 30px;
+  right: 200px;
 }
 #shop .main .gwc_box .contianer .sp-list li .sp-num .reduce {
   line-height: 15px;
@@ -208,12 +219,14 @@
   color: red;
 }
 #shop .main .gwc_box .contianer .sp-list li .sp-xj {
-  float: left;
-  margin-left: 40px;
+  position: absolute;
+  top: 35px;
+  right: 125px;
 }
 #shop .main .gwc_box .contianer .sp-list li .sp-caozuo {
-  float: left;
-  margin-left: 62px;
+  position: absolute;
+  top: 35px;
+  right: 40px;
 }
 #shop .main .gwc_box .contianer .total-box {
   height: 136px;
@@ -266,6 +279,16 @@
 }
 #shop .main .gwc_box .contianer .total-box .excludeFreight i {
   color: #ff0000;
+}
+#shop .main .gwc_box .contianer .no-shop {
+  display: none;
+  height: 200px;
+  width: 100%;
+}
+#shop .main .gwc_box .contianer .no-shop h2 {
+  line-height: 200px;
+  text-align: center;
+  font-size: 22px;
 }
 #shop .main .gwc_box .contianer .continueShopping {
   height: 85px;
