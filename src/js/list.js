@@ -1,6 +1,7 @@
 (function(){
     $('.header').load('head.html',function(){
         var username = getCookie('username');
+        
         $.ajax({
             type:'get',
             url:'../api/change.php',
